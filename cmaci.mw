@@ -5,7 +5,7 @@
 .i vrici ke namcu klesi fa
 {|
 |-
-| *loi [[rarna'u]] .e      || <math>N = \{0, 1, 2, 3, 4, 5, ...\}</math>
+| *loi [[rarna'u]] .e      || <math>N = \{0, 1, 2, 3, 4, 5, \cdots\}</math>
 |-
 | *loi [[terkacna'u]] .e   || ???
 |-
@@ -15,7 +15,7 @@
 |-
 | *loi [[fi'urna'u]] .e    || <math>Q = \{x = {n\over m} | n,m\in N\}</math>
 |-
-| *loi [[zatna'u]] .e      || <math>R = Q \cup \{\pi, \sqrt{2}, ...\}</math>
+| *loi [[zatna'u]] .e      || <math>R = Q \cup \{\pi, \sqrt{2}, \cdots\}</math>
 |-
 | *loi [[xarna'u]] .e      || <math>\{x = r*i | r\in R; i = \sqrt{-1}\}</math>
 |-
