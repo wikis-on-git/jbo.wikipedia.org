@@ -5,7 +5,7 @@
 .i vrici ke namcu klesi fa
 {|
 |-
-| *loi [[rarna'u]] .e      || <math>N = \{0, 1, 2, 3, ... , n, n+1, ... \cdots\}</math>
+| *loi [[rarna'u]] .e      || <math>\mathbb{N} = \{0, 1, 2, 3, ... , n, n+1, ... \cdots\}</math>
 |-
 | *loi [[terkacna'u]] .e   || ???
 |-
@@ -13,15 +13,15 @@
 |-
 | *loi [[mulna'u]] .e      || ???
 |-
-| *loi [[fi'urna'u]] .e    || <math>Q = \{x = {n\over m} | n,m\in N\}</math>
+| *loi [[fi'urna'u]] .e    || <math>\mathbb{Q} = \{x = {n\over m} | n,m\in N\}</math>
 |-
-| *loi [[zatna'u]] .e      || <math>R = Q \cup \{\pi, \sqrt{2}, \cdots\}</math>
+| *loi [[zatna'u]] .e      || <math>\mathbb{R} = \mathbb{Q} \cup \{\pi, \sqrt{2}, \cdots\}</math>
 |-
-| *loi [[xarna'u]] .e      || <math>\{x = r*i | r\in R; i = \sqrt{-1}\}</math>
+| *loi [[xarna'u]] .e      || <math>\{x = r i | r\in \mathbb{R}; i = \sqrt{-1}\}</math>
 |-
-| *loi [[lujna'u]] .e      || <math>C = \{x = r + q*i | r,q\in R; i = \sqrt{-1}\}</math>
+| *loi [[lujna'u]] .e      || <math>\mathbb{C} = \{x = r + qi | r,q\in \mathbb{R}; i = \sqrt{-1}\}</math>
 |-
-| *loi [[voncimdyna'u]] .e || <math>H = \{x = r + q*i + s*j + t*k | r,q,s,t\in R; i^2 = j^2 = k^2 = ijk = \sqrt{-1}\}</math>
+| *loi [[voncimdyna'u]] .e || <math>\mathbb{H} = \{x = r + qi + sj + tk | r,q,s,t\in \mathbb{R}; i^2 = j^2 = k^2 = ijk = \sqrt{-1}\}</math>
 |-
 | *loi [[fatysaclu namcu]] || ???
 |}
