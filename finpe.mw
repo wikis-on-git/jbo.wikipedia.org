@@ -1,9 +1,10 @@
-{{Taxobox_begin | color = pink | name = finpe}}
-<!-- {{Taxobox_image | image = | caption = }} -->
+{{Taxobox_begin | color = pink | name = Pisces}}
+{{Taxobox_image | image = [[Image:Perca.jpg|200px]] | caption = la'o ly. ''Perca flavescens'' .ly}}
 {{Taxobox_begin_animalia}}
 {{Taxobox_subregnum_entry | taxon = [[Metazoa]]}}
 {{Taxobox_phylum_entry | taxon = [[skoselti'e]]}}
-{{Taxobox_subphylum_entry | taxon = '''Vertebrata'''}}
+{{Taxobox_subphylum_entry | taxon = [[Vertebrata]]}}
+{{Taxobox_end_placement}}
 {{Taxobox_section_subdivision | color = pink | plural_taxon = klejutsi}}
 *[[Petromyzontida]] - tromizona
 *[[Placodermi]] (''jutmorsi'')
