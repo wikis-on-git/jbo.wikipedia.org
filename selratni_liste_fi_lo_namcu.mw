@@ -1,0 +1,249 @@
+'''selratni liste fi lo namcu'''
+
+{| class="wikitable"
+|----- valign="top"
+! align="left" | cmene
+! align="left" | sinxa
+! align="left" | namcu
+|-----
+| [[cidro]] || H || 001
+|-----
+| [[.elium.]] || He || 002
+|-----
+| [[litium.]] || Li || 003
+|-----
+| [[berulium.]] || Be || 004
+|-----
+| [[boronium.]] || B || 005
+|-----
+| [[tabno]] || C || 006
+|-----
+| [[trano]] || N || 007
+|-----
+| [[kinjom]] || O || 008
+|-----
+| [[fluor.]] || F || 009
+|-----
+| [[neon.]] || Ne || 010
+|-----
+| [[natrium.]] || Na || 011
+|-----
+| [[magnesium.]] || Mg || 012
+|-----
+| [[aluminium.]] || Al || 013
+|-----
+| [[silikium]] || Si || 014
+|-----
+| [[posporus.]] || P || 015
+|-----
+| [[sliri]] || S || 016
+|-----
+| [[kliru]] || Cl || 017
+|-----
+| [[argon.]] || Ar || 018
+|-----
+| [[kalium.]] || K || 019
+|-----
+| [[kalkium.]] || Ca || 020
+|-----
+| [[skandium.]] || Sc || 021
+|-----
+| [[titanium.]] || Ti || 022
+|-----
+| [[uanadium.]] || V || 023
+|-----
+| [[kromium.]] || Cr || 024
+|-----
+| [[manganum.]] || Mn || 025
+|-----
+| [[tirse]] || Fe || 026
+|-----
+| [[kobaltum.]] || Co || 027
+|-----
+| [[nikle]] || Ni || 028
+|-----
+| [[tunka]] || Cu || 029
+|-----
+| [[zinki]] || Zn || 030
+|-----
+| [[galium.]] || Ga || 031
+|-----
+| [[germanium.]] || Ge || 032
+|-----
+| [[arsenikum.]] || As || 033
+|-----
+| [[selenium.]] || Se || 034
+|-----
+| [[bromum.]] || Br || 035
+|-----
+| [[kruptonium.]] || Kr || 036
+|-----
+| [[rubidium.]] || Rb || 037
+|-----
+| [[strontium.]] || Sr || 038
+|-----
+| [[.utrium.]] || Y || 039
+|-----
+| [[zirkonium.]] || Zr || 040
+|-----
+| [[niobium.]] || Nb || 041
+|-----
+| [[molubdenum.]] || Mo || 042
+|-----
+| [[teknetium.]] || Tc || 043
+|-----
+| [[rutenium.]] || Ru || 044
+|-----
+| [[rodium.]] || Rh || 045
+|-----
+| [[paladium.]] || Pd || 046
+|-----
+| [[rijno]] || Ag || 047
+|-----
+| [[kadmium.]] || Cd || 048
+|-----
+| [[indium.]] || In || 049
+|-----
+| [[tinci]] || Sn || 050
+|-----
+| [[stibium.]] || Sb || 051
+|-----
+| [[telurium.]] || Te || 052
+|-----
+| [[iodium.]] || I || 053
+|-----
+| [[ksenon.]] || Xe || 054
+|-----
+| [[kaisium.]] || Cs || 055
+|-----
+| [[barium.]] || Ba || 056
+|-----
+| [[lantanium.]] || La || 057
+|-----
+| [[kerium.]] || Ce || 058
+|-----
+| [[praseodumium.]] || Pr || 059
+|-----
+| [[neodumium.]] || Nd || 060
+|-----
+| [[prometium.]] || Pm || 061
+|-----
+| [[samarium.]] || Sm || 062
+|-----
+| [[europium.]] || Eu || 063
+|-----
+| [[gadolinium.]] || Gd || 064
+|-----
+| [[terbium.]] || Tb || 065
+|-----
+| [[dusprosium.]] || Dy || 066
+|-----
+| [[holmium.]] || Ho || 067
+|-----
+| [[erbium.]] || Er || 068
+|-----
+| [[tulium.]] || Tm || 069
+|-----
+| [[uterbium.]] || Yb || 070
+|-----
+| [[lutetium.]] || Lu || 071
+|-----
+| [[hafnium.]] || Hf || 072
+|-----
+| [[tantalum]] || Ta || 073
+|-----
+| [[uolframium]] || W || 074
+|-----
+| [[renium.]] || Re || 075
+|-----
+| [[osmium.]] || Os || 076
+|-----
+| [[iridium.]] || Ir || 077
+|-----
+| [[platinum.]] || Pt || 078
+|-----
+| [[solji]] || Au || 079
+|-----
+| [[margu]] || Hg || 080
+|-----
+| [[talium.]] || Tl || 081
+|-----
+| [[cnisa]] || Pb || 082
+|-----
+| [[bismutum.]] || Bi || 083
+|-----
+| [[polonium.]] || Po || 084
+|-----
+| [[.astatinum.]] || At || 085
+|-----
+| [[radon.]] || Rn || 086
+|-----
+| [[frankium.]] || Fr || 087
+|-----
+| [[radium.]] || Ra || 088
+|-----
+| [[aktinium.]] || Ac || 089
+|-----
+| [[torium.]] || Th || 090
+|-----
+| [[protaktinium.]] || Pa || 091
+|-----
+| [[uranium.]] || U || 092
+|-----
+| [[neptunium.]] || Np || 093
+|-----
+| [[plutonium.]] || Pu || 094
+|-----
+| [[amerikium.]] || Am || 095
+|-----
+| [[kurium.]] || Cm || 096
+|-----
+| [[berkelium.]] || Bk || 097
+|-----
+| [[kalifornium.]] || Cf || 098
+|-----
+| [[.einsteiniu.m]] || Es || 099
+|-----
+| [[fermium.]] || Fm || 100
+|-----
+| [[mendelevium.]] || Md || 101
+|-----
+| [[nobelium.]] || No || 102
+|-----
+| [[laurenkium]] || Lr || 103
+|-----
+| [[ruterfordium.]] || Rf || 104
+|-----
+| [[dubnium.]] || Db || 105
+|-----
+| [[seaborgium.]] || Sg || 106
+|-----
+| [[borium.]] || Bh || 107
+|-----
+| [[hasium.]] || Hs || 108
+|-----
+| [[meitnerium.]] || Mt || 109
+|-----
+| [[darmstadtium.]] || Ds || 110
+|-----
+| [[roentgenium.]] || Rg || 111
+|-----
+| [[ununbium.]] || Uub || 112
+|-----
+| [[ununtrium.]] || Uut || 113
+|-----
+| [[ununkuadium.]] || Uuq || 114
+|-----
+| [[ununpentium.]] || Uup || 115
+|-----
+| [[ununeksium.]] || Uuh || 116
+|-----
+| [[ununseptium.]] || Uus || 117
+|-----
+| [[ununoktium.]] || Uuo || 118
+|}
+
+[[category:selratni|*]]
+[[category:liste]]
+
+[[en:List of elements by atomic number]]
