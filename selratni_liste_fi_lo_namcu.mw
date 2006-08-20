@@ -10,11 +10,11 @@
 |-----
 | [[solnavni]] || He || 002
 |-----
-| [[linto sodna]] || Li || 003
+| [[roksodna]] || Li || 003
 |-----
 | [[jinmrberilo]] || Be || 004
 |-----
-| [[boronium]] || B || 005
+| [[jicmrboro]] || B || 005
 |-----
 | [[tabno]] || C || 006
 |-----
@@ -22,43 +22,43 @@
 |-----
 | [[kijno]] || O || 008
 |-----
-| [[fluor]] || F || 009
+| [[li'orkliru]] || F || 009
 |-----
-| [[neon]] || Ne || 010
+| [[ninynavni]] || Ne || 010
 |-----
-| [[natrium]] || Na || 011
+| [[sodna]] || Na || 011
 |-----
-| [[magnesium]] || Mg || 012
+| [[lidgusyjinme]] || Mg || 012
 |-----
-| [[aluminium]] || Al || 013
+| [[jinmrmalume]] || Al || 013
 |-----
-| [[silikium]] || Si || 014
+| [[cancmu]] || Si || 014
 |-----
-| [[posporus]] || P || 015
+| [[sackycmu]] || P || 015
 |-----
 | [[sliri]] || S || 016
 |-----
 | [[kliru]] || Cl || 017
 |-----
-| [[argon]] || Ar || 018
+| [[laznynavni]] || Ar || 018
 |-----
-| [[kalium]] || K || 019
+| [[sodnrkali]] || K || 019
 |-----
 | [[bogjinme]] || Ca || 020
 |-----
-| [[skandium]] || Sc || 021
+| [[jinmrskandi]] || Sc || 021
 |-----
-| [[titanium]] || Ti || 022
+| [[jinmrtitani]] || Ti || 022
 |-----
-| [[uanadium]] || V || 023
+| [[jinmrvanadi]] || V || 023
 |-----
-| [[kromium]] || Cr || 024
+| [[rogjinme]] || Cr || 024
 |-----
-| [[manganum]] || Mn || 025
+| [[jinmrmanga]] || Mn || 025
 |-----
 | [[tirse]] || Fe || 026
 |-----
-| [[kobaltum]] || Co || 027
+| [[ridjinme]] || Co || 027
 |-----
 | [[nikle]] || Ni || 028
 |-----
@@ -66,165 +66,165 @@
 |-----
 | [[zinki]] || Zn || 030
 |-----
-| [[galium]] || Ga || 031
+| [[fasyjinme]] || Ga || 031
 |-----
-| [[germanium]] || Ge || 032
+| [[dotyjicmu]] || Ge || 032
 |-----
-| [[arsenikum]] || As || 033
+| [[arseniko]] || As || 033
 |-----
-| [[selenium]] || Se || 034
+| [[lurcmu]] || Se || 034
 |-----
-| [[bromum]] || Br || 035
+| [[xunkliru]] || Br || 035
 |-----
-| [[kruptonium]] || Kr || 036
+| [[mipnavni]] || Kr || 036
 |-----
-| [[rubidium]] || Rb || 037
+| [[xunsodna]] || Rb || 037
 |-----
-| [[strontium]] || Sr || 038
+| [[jinmrstronti]] || Sr || 038
 |-----
-| [[utrium]] || Y || 039
+| [[jinmrtitri]] || Y || 039
 |-----
-| [[zirkonium]] || Zr || 040
+| [[jinmrzirkoni]] || Zr || 040
 |-----
-| [[niobium]] || Nb || 041
+| [[jinmrni,obi]] || Nb || 041
 |-----
-| [[molubdenum]] || Mo || 042
+| [[mlibdena]] || Mo || 042
 |-----
-| [[teknetium]] || Tc || 043
+| [[runjinme]] || Tc || 043
 |-----
-| [[rutenium]] || Ru || 044
+| [[rukyjinme]] || Ru || 044
 |-----
-| [[rodium]] || Rh || 045
+| [[zgujinme]] || Rh || 045
 |-----
-| [[paladium]] || Pd || 046
+| [[jinmrpaladi]] || Pd || 046
 |-----
 | [[rijno]] || Ag || 047
 |-----
-| [[kadmium]] || Cd || 048
+| [[jinmrkadmu]] || Cd || 048
 |-----
-| [[indium]] || In || 049
+| [[blajinme]] || In || 049
 |-----
 | [[tinci]] || Sn || 050
 |-----
-| [[stibium]] || Sb || 051
+| [[antimoni]] || Sb || 051
 |-----
-| [[telurium]] || Te || 052
+| [[tedjicmu]] || Te || 052
 |-----
-| [[iodium]] || I || 053
+| [[zirkliru]] || I || 053
 |-----
-| [[ksenon]] || Xe || 054
+| [[fangynavni]] || Xe || 054
 |-----
-| [[kaisium]] || Cs || 055
+| [[blasodna]] || Cs || 055
 |-----
-| [[barium]] || Ba || 056
+| [[tijyjinme]] || Ba || 056
 |-----
-| [[lantanium]] || La || 057
+| [[jinmrlantano]] || La || 057
 |-----
-| [[kerium]] || Ce || 058
+| [[jinmrseri]] || Ce || 058
 |-----
-| [[praseodumium]] || Pr || 059
+| [[jinmrprase,odimi]] || Pr || 059
 |-----
-| [[neodumium]] || Nd || 060
+| [[jinmrne,odimi]] || Nd || 060
 |-----
-| [[prometium]] || Pm || 061
+| [[fagycevjinme]] || Pm || 061
 |-----
-| [[samarium]] || Sm || 062
+| [[jinmrsamari]] || Sm || 062
 |-----
-| [[europium]] || Eu || 063
+| [[ronjinme]] || Eu || 063
 |-----
-| [[gadolinium]] || Gd || 064
+| [[jinmrgadolini]] || Gd || 064
 |-----
-| [[terbium]] || Tb || 065
+| [[jinmrterbi]] || Tb || 065
 |-----
-| [[dusprosium]] || Dy || 066
+| [[jinmrdisprosi]] || Dy || 066
 |-----
-| [[holmium]] || Ho || 067
+| [[jinmrxolmi]] || Ho || 067
 |-----
-| [[erbium]] || Er || 068
+| [[jinmrberbi]] || Er || 068
 |-----
-| [[tulium]] || Tm || 069
+| [[jinmrtuli]] || Tm || 069
 |-----
-| [[uterbium]] || Yb || 070
+| [[jinmrtiterbi]] || Yb || 070
 |-----
-| [[lutetium]] || Lu || 071
+| [[jinmrluteti]] || Lu || 071
 |-----
-| [[hafnium]] || Hf || 072
+| [[jinmrxafni]] || Hf || 072
 |-----
-| [[tantalum]] || Ta || 073
+| [[jinmrtantalu]] || Ta || 073
 |-----
-| [[uolframium]] || W || 074
+| [[jarjinme]] || W || 074
 |-----
-| [[renium]] || Re || 075
+| [[jinmlreni]] || Re || 075
 |-----
-| [[osmium]] || Os || 076
+| [[jinmrbosmi]] || Os || 076
 |-----
-| [[iridium]] || Ir || 077
+| [[jinmrdiridi]] || Ir || 077
 |-----
-| [[platinum]] || Pt || 078
+| [[jinmrplati]] || Pt || 078
 |-----
 | [[solji]] || Au || 079
 |-----
 | [[margu]] || Hg || 080
 |-----
-| [[talium]] || Tl || 081
+| [[jinmrtali]] || Tl || 081
 |-----
 | [[cnisa]] || Pb || 082
 |-----
-| [[bismutum]] || Bi || 083
+| [[jinmrbismu]] || Bi || 083
 |-----
-| [[polonium]] || Po || 084
+| [[jicmrpoloni]] || Po || 084
 |-----
-| [[astatinum]] || At || 085
+| [[klirlxastati]] || At || 085
 |-----
-| [[radon]] || Rn || 086
+| [[dircynavni]] || Rn || 086
 |-----
-| [[frankium]] || Fr || 087
+| [[fasysodna]] || Fr || 087
 |-----
-| [[radium]] || Ra || 088
+| [[dircyjinme]] || Ra || 088
 |-----
-| [[aktinium]] || Ac || 089
+| [[jinmrtaktini]] || Ac || 089
 |-----
-| [[torium]] || Th || 090
+| [[lidycevjinme]] || Th || 090
 |-----
-| [[protaktinium]] || Pa || 091
+| [[jinmrproktini]] || Pa || 091
 |-----
-| [[uranium]] || U || 092
+| [[jinmrvurani]] || U || 092
 |-----
-| [[neptunium]] || Np || 093
+| [[jinmrneptuni]] || Np || 093
 |-----
-| [[plutonium]] || Pu || 094
+| [[jinmrplutoni]] || Pu || 094
 |-----
-| [[amerikium]] || Am || 095
+| [[merjinme]] || Am || 095
 |-----
-| [[kurium]] || Cm || 096
+| [[jinmrkuri]] || Cm || 096
 |-----
-| [[berkelium]] || Bk || 097
+| [[jinmrberkeli]] || Bk || 097
 |-----
-| [[kalifornium]] || Cf || 098
+| [[jinmrkaliforni]] || Cf || 098
 |-----
-| [[einsteinium]] || Es || 099
+| [[jinmrtainctaini]] || Es || 099
 |-----
-| [[fermium]] || Fm || 100
+| [[jinmrfermi]] || Fm || 100
 |-----
-| [[mendelevium]] || Md || 101
+| [[jinmrmendelevi]] || Md || 101
 |-----
-| [[nobelium]] || No || 102
+| [[jinmrnobeli]] || No || 102
 |-----
-| [[laurenkium]] || Lr || 103
+| [[jinmrlorensi]] || Lr || 103
 |-----
-| [[ruterfordium]] || Rf || 104
+| [[jinmlruterfordi]] || Rf || 104
 |-----
-| [[dubnium]] || Db || 105
+| [[jinmrdubni]] || Db || 105
 |-----
-| [[seaborgium]] || Sg || 106
+| [[jinmrsiborgi]] || Sg || 106
 |-----
-| [[borium]] || Bh || 107
+| [[jinmrbori]] || Bh || 107
 |-----
-| [[hasium]] || Hs || 108
+| [[jinmrxasi]] || Hs || 108
 |-----
-| [[meitnerium]] || Mt || 109
+| [[jinmrmaitneri]] || Mt || 109
 |-----
-| [[darmstadtium]] || Ds || 110
+| [[jinmrdarmctati]] || Ds || 110
 |-----
 | [[roentgenium]] || Rg || 111
 |-----
