@@ -1,0 +1,23 @@
+<div name="Deletion notice" class="notice" id="delete" style="margin:0 5%; padding:.5em; background:{{{bgcolor|#FEE}}}; border:1px solid #999; text-align:left; font-size:95%;">'''lenu sutra vimcu ko'a goi ti poi ckupau cu selti'i .iki'ubo ''{{{1|<big>{{xunre|co'e}}</big>}}}'''''
+
+ni'o lenu lenu sutra vimcu ko'a cu na sarxe le [[Wikipedia:javni lenu sutra vimcu|javni be lenu sutra vimcu]] kei .a lenu do bazi cikre ko'a kei cu krinu lenu do vimcu ti poi notci ku'o ko'a
+
+.i e'o ko na vimcu ti poi notci ku'o lo ckupau poi do finti ke'a
+
+.i lenu punji zoi my. <nowiki>{{fapro fi lenu vimcu}}</nowiki> .my. ko'a gi'ebazibo ciska lo krinu le ko'a casnu ckupau cu velcpe lenu denpa fo lenu vimcu ko'a kei fe lenu ba'o casnu
+
+<span class="plainlinks">''ni'o doi le vimcu e'o ko catlu lu [[Special:Whatlinkshere/{{SUBJECTPAGENAME}}|ma jorne ti]] li'u .e le [{{fullurl:{{SUBJECTPAGENAME}}|action=history}} citri be ko'a] .e le [{{fullurl:Special:Log|page={{SUBJECTPAGENAMEE}}}} ko'a cirvei] pu lenu [{{fullurl:{{SUBJECTPAGENAME}}|action=delete}} vimcu]''</span>
+</div>
+<includeonly>{{{category|[[Category:sutra vimcu]]}}}</includeonly>
+<noinclude>
+* ni'oni'o lenu ciska zoi my. <nowiki>{{ko vimcu|</nowiki>''krinu''<nowiki>}}</nowiki> .my. cu velcpe lenu vimcu
+* ni'oni'o lenu punji ti cu rinka lenu cenba loka pagbu le klesi poi lu [[:Category:sutra vimcu|sutra vimcu]] li'u cmene ke'a
+*ni'oni'o e'o ko pilno le ci'arvelski ke casnu ckupau lenu casnu lenu vimcu
+
+[[cs:Šablona:Smazat]]
+[[en:db-reason]]
+[[es:Plantilla:Destruir]]
+[[ja:Template:Deletebecause]]
+[[sk:Šablóna:Zmazať lebo]]
+[[zh:Template:Db-reason]]
+</noinclude>
