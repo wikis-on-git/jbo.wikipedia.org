@@ -239,12 +239,12 @@
 {{!}} {{{diversity|}}}}}
 |- bgcolor="{{{color|white}}}"
 {{#if:{{{binomial|}}}|
-! <center>[[Binomial nomenclature|Binomial name]]</center>
+! <center>[[relpau cmene]]</center>
 {{!}}- style="text-align:center;"
 {{!}} '''{{{binomial}}}'''<br><small>{{{binomial_authority|}}}</small>}}
 |-bgcolor="{{{color|white}}}"
 {{#if:{{{trinomial|}}}|
-! <center>[[Trinomial nomenclature|Trinomial name]] </center>
+! <center>[[cibypau cmene]] </center>
 {{!}}- style="text-align:center;"
 {{!}} '''{{{trinomial}}}'''<br><small>{{{trinomial_authority|}}}</small>}}
 |-bgcolor="{{{color|white}}}"
