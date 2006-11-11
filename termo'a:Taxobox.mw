@@ -26,7 +26,7 @@
 | {{#if:{{{image|}}}|[[image:{{{image}}}|{{{image_width|200px}}}|{{{image_caption|}}}]]<br><small><div style="text-align:center">{{{image_caption|}}}</div></small>}}
 {{#if:{{{image2|}}}|[[image:{{{image2}}}|{{{image2_width|200px}}}|{{{image2_caption|}}}]]<br><small><div style="text-align:center">{{{image2_caption|}}}</div></small>}}
 |- style="text-align:center;"
-! style="background: {{{color}}};" | '''{{#if:{{{virus_group|}}}|[[Virus classification]]|[[Scientific classification]]}}'''
+! style="background: {{{color}}};" | '''{{#if:{{{virus_group|}}}|[[Virus classification]]|[[saske terganzu]]}}'''
 |- style="text-align:center;"
 |
 {| style="margin:0 auto; text-align:left; background:white;" cellpadding="2"
