@@ -230,7 +230,7 @@
 |-valign=top
 {{#if:{{{subspecies|}}}|
 {{!}}  vipfrejutsi:
-{{!}} <span style="white-space: nowrap">{{{subspecies}}}</span><br><small>{{{subspecies_authority|}}}</small>}}
+{{!}} <span style="white-space: nowrap">{{{vipfrejutsi}}}</span><br><small>{{{subspecies_authority|}}}</small>}}
 |}
 |- bgcolor={{{color|white}}}
 {{#if:{{{diversity|}}}|
