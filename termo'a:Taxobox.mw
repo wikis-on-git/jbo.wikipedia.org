@@ -57,7 +57,7 @@
 {{!}} {{{regnum}}}<br><small>{{{regnum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subregnum|}}}|
-{{!}}  Subkingdom:
+{{!}}  vipybaljutsi:
 {{!}} {{{subregnum}}}<br><small>{{{subregnum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{unranked_phylum|}}}|
@@ -85,7 +85,7 @@
 {{!}} {{{subdivisio}}}<br><small>{{{subdivisio_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subphylum|}}}|
-{{!}}  Subphylum:
+{{!}}  vipxadytaijutsi:
 {{!}} {{{subphylum}}}<br><small>{{{subphylum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{infraphylum|}}}|
@@ -113,7 +113,7 @@
 {{!}} {{{classis}}}<br><small>{{{classis_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subclassis|}}}|
-{{!}}  Subclass:
+{{!}}  vipklejutsi:
 {{!}} {{{subclassis}}}<br><small>{{{subclassis_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{infraclassis|}}}|
@@ -137,7 +137,7 @@
 {{!}} {{{ordo}}}<br><small>{{{ordo_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subordo|}}}|
-{{!}}  Suborder:
+{{!}}  vipygrijutsi:
 {{!}} {{{subordo}}}<br><small>{{{subordo_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{infraordo|}}}|
@@ -173,7 +173,7 @@
 {{!}} {{{familia}}}<br><small>{{{familia_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subfamilia|}}}|
-{{!}}  Subfamily:
+{{!}}  vipylazyjutsi:
 {{!}} {{{subfamilia}}}<br><small>{{{subfamilia_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{supertribus|}}}|
