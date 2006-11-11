@@ -1,7 +1,7 @@
 <includeonly>{| style="position:relative; margin: 0 0 0.5em 1em; border-collapse: collapse; float:right; background:white; clear:right; width:200px;" border="1" cellpadding="0"
 |- style="text-align:center;"
 ! style="background: {{{color}}};"|<span style="position:relative; float:right; font-size:70%;">[[Wikipedia:How to read a taxobox|?]]</span>'''{{{name}}}'''{{#if:{{{status|}}}|<br><span style="text-align:center">{{#switch:{{{status}}}
-  |SE|se|SECURE|Secure|secure=<small>'''[[Conservation status|Conservation status:]]&nbsp;Secure'''</small>
+  |SE|se|SECURE|Secure|secure=<small>'''lo ka snura cu [[jutre'i tcini]]'''</small>
   |DOM|dom|DOMESTICATED|Domesticated|domesticated=<small>'''[[Conservation status|Conservation status:]]&nbsp;Domesticated'''</small>{{{category|[[Category:Domesticated animals]]}}}
   |DD|dd=<small>'''[[Conservation status|Conservation&nbsp;status:]] Data&nbsp;deficient'''</small>
   |LR|lr=<small>'''[[Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk'''</small> {{{category|[[Category:Invalid conservation status]]}}}
@@ -10,8 +10,8 @@
   |NT|nt=<small>'''[[Conservation status|Conservation&nbsp;status:]] Near&nbsp;threatened'''</small>
   |LR/nt|lr/nt=<small>'''[[Conservation status|Conservation&nbsp;status:]] Near&nbsp;threatened&nbsp;(LR/nt)'''</small>
   |LR/cd|lr/cd=<small>'''[[Conservation status|Conservation&nbsp;status:]] Conservation&nbsp;dependent&nbsp;(LR/cd)'''</small>
-  |VU|vu=<small>'''[[Conservation status|Conservation status:]] Vulnerable'''</small>
-  |EN|en=<small>'''[[Conservation status|Conservation status:]] Endangered'''</small>{{{category|[[Category:Endangered species]]}}}
+  |VU|vu=<small>'''lo ka ralci cu [[jutre'i tcini]]'''</small>
+  |EN|en=<small>'''lo ka selckape cu [[jutre'i tcini]]'''</small>{{{category|[[Category:selckape jutsi]]}}}
   |CR|cr=<small>'''[[Conservation status|Conservation status:]] Critical'''</small>{{{category|[[Category:Critically endangered species]]}}}
   |PE|pe=<small>'''[[Conservation status|Conservation status:]] Critical (Possibly Extinct)'''</small>{{{category|[[Category:Critically endangered species]]}}}
   |EW|ew=<small>'''[[Conservation status|Conservation&nbsp;status:]] Extinct&nbsp;in&nbsp;the&nbsp;wild'''</small>{{{category|[[Category:Species extinct in the wild]]}}}
