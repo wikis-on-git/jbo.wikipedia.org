@@ -53,7 +53,7 @@
 {{!}} {{{superregnum}}}<br><small>{{{superregnum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{regnum|}}}|
-{{!}}  Kingdom:
+{{!}}  baljutsi:
 {{!}} {{{regnum}}}<br><small>{{{regnum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subregnum|}}}|
@@ -77,7 +77,7 @@
 {{!}} {{{divisio}}}<br><small>{{{divisio_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{phylum|}}}|
-{{!}}  Phylum:
+{{!}}  xadytaijutsi:
 {{!}} {{{phylum}}}<br><small>{{{phylum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subdivisio|}}}|
@@ -109,7 +109,7 @@
 {{!}} {{{superclassis}}}<br><small>{{{superclassis_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{classis|}}}|
-{{!}}  Class:
+{{!}}  klejutsi:
 {{!}} {{{classis}}}<br><small>{{{classis_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subclassis|}}}|
@@ -133,7 +133,7 @@
 {{!}} {{{superordo}}}<br><small>{{{superordo_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{ordo|}}}|
-{{!}}  Order:
+{{!}}  grijutsi:
 {{!}} {{{ordo}}}<br><small>{{{ordo_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subordo|}}}|
@@ -169,7 +169,7 @@
 {{!}} {{{superfamilia}}}<br><small>{{{superfamilia_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{familia|}}}|
-{{!}}  Family:
+{{!}}  lazyjutsi:
 {{!}} {{{familia}}}<br><small>{{{familia_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subfamilia|}}}|
@@ -193,7 +193,7 @@
 {{!}} {{{alliance}}}<br><small>{{{alliance_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{genus|}}}|
-{{!}}  Genus:
+{{!}}  jijyjutsi:
 {{!}} {{{genus}}}<br><small>{{{genus_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{genus2|}}}|
@@ -225,7 +225,7 @@
 {{!}} {{{species_complex}}}<br><small>{{{species_complex_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{species|}}}|
-{{!}}  Species:
+{{!}}  frejutsi:
 {{!}} <span style="white-space: nowrap">{{{species}}}</span><br><small>{{{species_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subspecies|}}}|
