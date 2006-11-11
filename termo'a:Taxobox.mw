@@ -229,7 +229,7 @@
 {{!}} <span style="white-space: nowrap">{{{species}}}</span><br><small>{{{species_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{subspecies|}}}|
-{{!}}  Subspecies:
+{{!}}  vipfrejutsi:
 {{!}} <span style="white-space: nowrap">{{{subspecies}}}</span><br><small>{{{subspecies_authority|}}}</small>}}
 |}
 |- bgcolor={{{color|white}}}
