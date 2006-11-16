@@ -1,0 +1,16 @@
+<includeonly>{{subst:</includeonly><includeonly>empty template|<span style="font-size: large; color: red">'''You forgot to subst this template. Replace <nowiki>{{transwiki|''destwiki''|''newname''}} with {{subst:transwiki|''destwiki''|''newname''}}</nowiki>'''</span>[[Category:Proposed deletion as of unknown date {{CURRENTYEAR}}]]}}{</includeonly><noinclude><nowiki>{</nowiki></noinclude>{dated transwiki|month = {{<includeonly>subst:</includeonly>CURRENTMONTHNAME}}|day = {{<includeonly>subst:</includeonly>CURRENTDAY}}|year = {{<includeonly>subst:</includeonly>CURRENTYEAR}}|time = {{<includeonly>subst:</includeonly>CURRENTTIME}}|{{{1|}}}|{{{2|}}}}}<noinclude>
+----
+
+e'o ko fanva
+
+''Please help lojbo Wikipedia by translating this template:''
+
+Usage:
+
+<nowiki>{{subst:transwiki</nowiki>|''destwiki''|''newname''<nowiki>}}</nowiki>,
+where ''destwiki'' is the name of the destination wiki; the name should be either the destination's capitalized full name (e.g. ''Wiktionary'', ''Wikisource'', etc.) or its one-letter abbreviation (e.g. ''m'' for meta, ''b'' for Wikibooks, etc.).  ''newname'' should be the name that you have given to the new page. Be aware that Wiktionary article names default to an initial lower-case letter.
+
+This template is currently under test.
+
+[[en:Template:Transwiki]]
+</noinclude>
