@@ -49,7 +49,7 @@
 {{!}} {{{domain}}}<br><small>{{{domain_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{superregnum|}}}|
-{{!}}  Superkingdom:
+{{!}}  kupybaljutsi:
 {{!}} {{{superregnum}}}<br><small>{{{superregnum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{regnum|}}}|
@@ -69,7 +69,7 @@
 {{!}} {{{superdivisio}}}<br><small>{{{superdivisio_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{superphylum|}}}|
-{{!}}  Superphylum:
+{{!}}  kupxadytaijutsi:
 {{!}} {{{superphylum}}}<br><small>{{{superphylum_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{divisio|}}}|
@@ -105,7 +105,7 @@
 {{!}} {{{unranked_classis}}}<br><small>{{{unranked_classis_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{superclassis|}}}|
-{{!}}  Superclass:
+{{!}}  kupklejutsi:
 {{!}} {{{superclassis}}}<br><small>{{{superclassis_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{classis|}}}|
@@ -129,7 +129,7 @@
 {{!}} {{{magnordo}}}<br><small>{{{magnordo_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{superordo|}}}|
-{{!}}  Superorder:
+{{!}}  kupygrijutsi:
 {{!}} {{{superordo}}}<br><small>{{{superordo_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{ordo|}}}|
@@ -165,7 +165,7 @@
 {{!}} {{{unranked_familia}}}<br><small>{{{unranked_familia_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{superfamilia|}}}|
-{{!}}  Superfamily:
+{{!}}  kupylazyjutsi:
 {{!}} {{{superfamilia}}}<br><small>{{{superfamilia_authority|}}}</small>}}
 |-valign=top
 {{#if:{{{familia|}}}|
