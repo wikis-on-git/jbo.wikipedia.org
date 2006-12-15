@@ -2,12 +2,13 @@
 {| cellspacing="0" style="width:238px;background:#E0E8FF"
 | style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt" | '''[[glibau|en]]-3'''
 | style="font-size:8pt;padding:4pt;line-height:1.25em" | This user is able to contribute with an '''[[:Category:pilno en-3|advanced]]''' level of '''[[:Category:pilno en|English]]'''.
-|}</div><noinclude><br clear="all"/>
+|}</div>
 
 <includeonly>
 [[Category:pilno en|{{PAGENAME}}]][[Category:pilno en-3|{{PAGENAME}}]]
 </includeonly>
 
+<noinclude><br clear="all"/>
 [[de:Vorlage:User en-3]]
 [[en:Template:User en-3]]
 [[es:Plantilla:·Usuarios por idioma (en-3)]]
