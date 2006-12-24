@@ -13,13 +13,13 @@
 {{selratni tanxe nalyliktcini | k=44.4 | p=2.76 }}
 {{selratni tanxe runme kelvo nejni | 0.335 }}
 {{selratni tanxe febvi kelvo nejni | 1.71 }}
-{{selratni tanxe gacyda'e }}
-{{selratni tanxe selratyte'i }}
-{{selratni tanxe vricite'i }}
+{{selratni tanxe gacyda'e | pavmoirelskari=#a0ffa0 | relmoirelskari=green }}
+{{selratni tanxe selratyte'i | pavmoirelskari=#a0ffa0 | relmoirelskari=green }}
+{{selratni tanxe vricite'i | pavmoirelskari=#a0ffa0 | relmoirelskari=green }}
 {{selratni tanxe makpoi | nonmagnetic }}
 {{selratni tanxe nengla greka'e | k=300 | g=49.1 }}
 {{selratni tanxe snasutra | mt=[[gapci]] | k=273 | s=435 }}
-{{selratni tanxe teryratni }}
+{{selratni tanxe teryratni |pavmoirelskari=#a0ffa0 | relmoirelskari=green }}
 {{selratni tanxe pevjamfu | pavmoirelskari=#a0ffa0 | relmoirelskari=green }}
 
 
