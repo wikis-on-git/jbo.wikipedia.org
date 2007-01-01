@@ -10,11 +10,11 @@
 | align="center" | <small>'''[[na'ardekto]]:'''</small> 
 |-
 | align="center" | <!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10)) - 20}}moi na'ardekto]]<!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10)) - 10}}moi na'ardekto]]<!--
---> - '''[[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))}}moi na'ardekto]]''' -<!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10)) + 10}}moi na'ardekto]]<!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10)) + 20}}moi na'ardekto]]
+--> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 - 2}}moi na'ardekto]]<!--
+--> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 - 1}}moi na'ardekto]]<!--
+--> - '''[[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10}}moi na'ardekto]]''' -<!--
+--> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 + 1}}moi na'ardekto]]<!--
+--> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 + 2}}moi na'ardekto]]
 |-
 | align="center" | <small>'''[[nanca]]:'''</small>
 |-
