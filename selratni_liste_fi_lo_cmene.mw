@@ -1,0 +1,249 @@
+'''[[selratni]] liste fi lo cmene'''
+
+{| class="wikitable"
+|----- valign="top"
+! align="left" | cmene
+! align="left" | sinxa
+! align="left" | namcu
+|-----
+| [[antimoni]] || Sb || 051
+|-----
+| [[arseniko]] || As || 033
+|-----
+| [[blajinme]] || In || 049
+|-----
+| [[blasodna]] || Cs || 055
+|-----
+| [[bogjinme]] || Ca || 020
+|-----
+| [[cancmu]] || Si || 014
+|-----
+| [[cidro]] || H || 001
+|-----
+| [[cnisa]] || Pb || 082
+|-----
+| [[dircyjinme]] || Ra || 088
+|-----
+| [[dircynavni]] || Rn || 086
+|-----
+| [[dotyjinme]] || Ge || 032
+|-----
+| [[fagycevjinme]] || Pm || 061
+|-----
+| [[fangynavni]] || Xe || 054
+|-----
+| [[fasyjinme]] || Ga || 031
+|-----
+| [[fasysodna]] || Fr || 087
+|-----
+| [[jarjinme]] || W || 074
+|-----
+| [[jicmrboro]] || B || 005
+|-----
+| [[jicmrpoloni]] || Po || 084
+|-----
+| [[jinmlreni]] || Re || 075
+|-----
+| [[jinmlruterfordi]] || Rf || 104
+|-----
+| [[jinmrberbi]] || Er || 068
+|-----
+| [[jinmrberilo]] || Be || 004
+|-----
+| [[jinmrberkeli]] || Bk || 097
+|-----
+| [[jinmrbismu]] || Bi || 083
+|-----
+| [[jinmrbori]] || Bh || 107
+|-----
+| [[jinmrbosmi]] || Os || 076
+|-----
+| [[jinmrdarmctati]] || Ds || 110
+|-----
+| [[jinmrdiridi]] || Ir || 077
+|-----
+| [[jinmrdisprosi]] || Dy || 066
+|-----
+| [[jinmrdubni]] || Db || 105
+|-----
+| [[jinmrfermi]] || Fm || 100
+|-----
+| [[jinmrgadolini]] || Gd || 064
+|-----
+| [[jinmrkadmu]] || Cd || 048
+|-----
+| [[jinmrkaliforni]] || Cf || 098
+|-----
+| [[jinmrkuri]] || Cm || 096
+|-----
+| [[jinmrlantano]] || La || 057
+|-----
+| [[jinmrlorensi]] || Lr || 103
+|-----
+| [[jinmrluteti]] || Lu || 071
+|-----
+| [[jinmrmaitneri]] || Mt || 109
+|-----
+| [[jinmrmalume]] || Al || 013
+|-----
+| [[jinmrmanga]] || Mn || 025
+|-----
+| [[jinmrmendelevi]] || Md || 101
+|-----
+| [[jinmrneptuni]] || Np || 093
+|-----
+| [[jinmrne,odimi]] || Nd || 060
+|-----
+| [[jinmrni,obi]] || Nb || 041
+|-----
+| [[jinmrnobeli]] || No || 102
+|-----
+| [[jinmrpaladi]] || Pd || 046
+|-----
+| [[jinmrplati]] || Pt || 078
+|-----
+| [[jinmrplutoni]] || Pu || 094
+|-----
+| [[jinmrprase,odimi]] || Pr || 059
+|-----
+| [[jinmrproktini]] || Pa || 091
+|-----
+| [[jinmrsamari]] || Sm || 062
+|-----
+| [[jinmrseri]] || Ce || 058
+|-----
+| [[jinmrsiborgi]] || Sg || 106
+|-----
+| [[jinmrskandi]] || Sc || 021
+|-----
+| [[jinmrstronti]] || Sr || 038
+|-----
+| [[jinmrtainctaini]] || Es || 099
+|-----
+| [[jinmrtaktini]] || Ac || 089
+|-----
+| [[jinmrtali]] || Tl || 081
+|-----
+| [[jinmrtantalu]] || Ta || 073
+|-----
+| [[jinmrterbi]] || Tb || 065
+|-----
+| [[jinmrtitani]] || Ti || 022
+|-----
+| [[jinmrtiterbi]] || Yb || 070
+|-----
+| [[jinmrtitri]] || Y || 039
+|-----
+| [[jinmrtuli]] || Tm || 069
+|-----
+| [[jinmrvanadi]] || V || 023
+|-----
+| [[jinmrvurani]] || U || 092
+|-----
+| [[jinmrxafni]] || Hf || 072
+|-----
+| [[jinmrxasi]] || Hs || 108
+|-----
+| [[jinmrxolmi]] || Ho || 067
+|-----
+| [[jinmrzirkoni]] || Zr || 040
+|-----
+| [[kijno]] || O || 008
+|-----
+| [[klirlxastati]] || At || 085
+|-----
+| [[kliru]] || Cl || 017
+|-----
+| [[laznavni]] || Ar || 018
+|-----
+| [[li'orkliru]] || F || 009
+|-----
+| [[lidgusyjinme]] || Mg || 012
+|-----
+| [[lidycevjinme]] || Th || 090
+|-----
+| [[lurcmu]] || Se || 034
+|-----
+| [[margu]] || Hg || 080
+|-----
+| [[merjinme]] || Am || 095
+|-----
+| [[mipnavni]] || Kr || 036
+|-----
+| [[mlibdena]] || Mo || 042
+|-----
+| [[nikle]] || Ni || 028
+|-----
+| [[ninynavni]] || Ne || 010
+|-----
+| [[ridjinme]] || Co || 027
+|-----
+| [[rijno]] || Ag || 047
+|-----
+| [[roentgenium]] || Rg || 111
+|-----
+| [[rogjinme]] || Cr || 024
+|-----
+| [[roksodna]] || Li || 003
+|-----
+| [[ronjinme]] || Eu || 063
+|-----
+| [[rukyjinme]] || Ru || 044
+|-----
+| [[runjinme]] || Tc || 043
+|-----
+| [[sackycmu]] || P || 015
+|-----
+| [[sliri]] || S || 016
+|-----
+| [[sodna]] || Na || 011
+|-----
+| [[sodnrkali]] || K || 019
+|-----
+| [[solji]] || Au || 079
+|-----
+| [[solnavni]] || He || 002
+|-----
+| [[tabno]] || C || 006
+|-----
+| [[tedjicmu]] || Te || 052
+|-----
+| [[tijyjinme]] || Ba || 056
+|-----
+| [[tinci]] || Sn || 050
+|-----
+| [[tirse]] || Fe || 026
+|-----
+| [[trano]] || N || 007
+|-----
+| [[tunka]] || Cu || 029
+|-----
+| [[ununbium]] || Uub || 112
+|-----
+| [[ununeksium]] || Uuh || 116
+|-----
+| [[ununkuadium]] || Uuq || 114
+|-----
+| [[ununoktium]] || Uuo || 118
+|-----
+| [[ununpentium]] || Uup || 115
+|-----
+| [[ununseptium]] || Uus || 117
+|-----
+| [[ununtrium]] || Uut || 113
+|-----
+| [[xunkliru]] || Br || 035
+|-----
+| [[xunsodna]] || Rb || 037
+|-----
+| [[zgujinme]] || Rh || 045
+|-----
+| [[zinki]] || Zn || 030
+|-----
+| [[zirkliru]] || I || 053
+|}
+
+[[category:selratni|*]]
+[[category:liste]]
+
+[[en:List of elements by name]]
