@@ -3,34 +3,34 @@
 | align="center" | <small>'''[[na'acto]]:''' </small> 
 |-
 | align="center" | <!--
---> [[{{#expr: (({{{1|888}}}) - (({{{1|888}}}) mod 100))/100 - 1}}moi na'acto]]<!--
---> - '''[[{{#expr: (({{{1|888}}}) - (({{{1|888}}}) mod 100))/100}}moi na'acto]]''' -<!--
---> [[{{#expr: (({{{1|888}}}) - (({{{1|888}}}) mod 100))/100 + 1}}moi na'acto]]
+--> [[{{#expr: (({{{1|1888}}}) - (({{{1|1888}}}) mod 100))/100 - 1}}moi na'acto]]<!--
+--> - '''[[{{#expr: (({{{1|1888}}}) - (({{{1|1888}}}) mod 100))/100}}moi na'acto]]''' -<!--
+--> [[{{#expr: (({{{1|1888}}}) - (({{{1|1888}}}) mod 100))/100 + 1}}moi na'acto]]
 |-
 | align="center" | <small>'''[[na'ardekto]]:'''</small> 
 |-
 | align="center" | <!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 - 2}}moi na'ardekto]]<!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 - 1}}moi na'ardekto]]<!--
---> - '''[[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10}}moi na'ardekto]]''' -<!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 + 1}}moi na'ardekto]]<!--
---> [[{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10 + 2}}moi na'ardekto]]
+--> [[{{#expr: ({{{1|1888}}} - ({{{1|1888}}} mod 10))/10 - 2}}moi na'ardekto]]<!--
+--> [[{{#expr: ({{{1|1888}}} - ({{{1|1888}}} mod 10))/10 - 1}}moi na'ardekto]]<!--
+--> - '''[[{{#expr: ({{{1|1888}}} - ({{{1|1888}}} mod 10))/10}}moi na'ardekto]]''' -<!--
+--> [[{{#expr: ({{{1|1888}}} - ({{{1|1888}}} mod 10))/10 + 1}}moi na'ardekto]]<!--
+--> [[{{#expr: ({{{1|1888}}} - ({{{1|1888}}} mod 10))/10 + 2}}moi na'ardekto]]
 |-
 | align="center" | <small>'''[[nanca]]:'''</small>
 |-
 | align="center" | <!--
---> [[{{#expr: {{{1|888}}} - 3}}moi nanca]]<!--
---> [[{{#expr: {{{1|888}}} - 2}}moi nanca]]<!--
---> [[{{#expr: {{{1|888}}} - 1}}moi nanca]]<!--
---> - [[{{{1|888}}}moi nanca]] -<!--
---> [[{{#expr: {{{1|888}}} + 1}}moi nanca]]<!--
---> [[{{#expr: {{{1|888}}} + 2}}moi nanca]]<!--
---> [[{{#expr: {{{1|888}}} + 3}}moi nanca]]
-|}<!--
--->[[Category:{{#expr: (({{{1|888}}}) - (({{{1|888}}}) mod 100))/100}}moi na'acto|{{PAGENAME}}]][[Category:{{#expr: ({{{1|888}}} - ({{{1|888}}} mod 10))/10}}moi na'ardekto|{{PAGENAME}}]]</includeonly><noinclude>
+--> [[{{#expr: {{{1|1888}}} - 3}}moi nanca]]<!--
+--> [[{{#expr: {{{1|1888}}} - 2}}moi nanca]]<!--
+--> [[{{#expr: {{{1|1888}}} - 1}}moi nanca]]<!--
+--> - [[{{{1|1888}}}moi nanca]] -<!--
+--> [[{{#expr: {{{1|1888}}} + 1}}moi nanca]]<!--
+--> [[{{#expr: {{{1|1888}}} + 2}}moi nanca]]<!--
+--> [[{{#expr: {{{1|1888}}} + 3}}moi nanca]]
+|}<!--automatic categorization if the template is included with a parameter (experimental)
+-->{{#ifeq: {{{1|0}}}|{{{1|1}}}|[[Category:{{#expr: (({{{1}}}) - (({{{1}}}) mod 100))/100}}moi na'acto|{{PAGENAME}}]][[Category:{{#expr: ({{{1}}} - ({{{1}}} mod 10))/10}}moi na'ardekto|{{PAGENAME}}]]|}}</includeonly><noinclude>
 ==mupli==
-:<code><nowiki>{{nanca cartu|1998}}</nowiki></code>
-{{nanca cartu|1998}}
+:<code><nowiki>{{nanca cartu|1888}}</nowiki></code>
+{{nanca cartu}}
 
 [[en:Template:Year nav]]
 [[zh:Template:YearTOC]]
