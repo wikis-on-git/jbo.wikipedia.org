@@ -1,12 +1,12 @@
-table class="infobox" style="font-size:93%; line-height:1.3em;" width={{
+<table class="infobox" style="font-size:93%; line-height:1.3em;" width={{
   #if: {{{boxwidth|}}} | {{{boxwidth}}} | 250}}>
 <tr>
 <th colspan=2 align=center style="background:{{
-  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">{{{name}}}</th>
+  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">{{{cmene}}}</th>
 </tr>{{
   #if: {{{image<includeonly>|</includeonly>}}} |
 <tr>
-<td align=center colspan=2>[[image:{{{image}}}|{{
+<td align=center colspan=2>[[image:{{{pircme}}}|{{
   #if: {{{imagesize<includeonly>|</includeonly>}}} | {{{imagesize}}}px |{{
   #if: {{{boxwidth|}}} | {{{boxwidth}}}px | 250px }} }}]]<br/>{{
   #if: {{{caption<includeonly>|</includeonly>}}} |
