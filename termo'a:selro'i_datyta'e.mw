@@ -8,7 +8,7 @@
 <tr>
 <td align=center colspan=2>[[image:{{{pircme}}}|{{
   #if: {{{imagesize<includeonly>|</includeonly>}}} | {{{imagesize}}}px |{{
-  #if: {{{boxwidth|}}} | {{{boxwidth}}}px | 250px }} }}]]<br/>{{
+  #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}}px | 250px }} }}]]<br/>{{
   #if: {{{caption<includeonly>|</includeonly>}}} |
     <div style="text-align:left">{{{caption}}}</div> }}</td>
 </tr>
@@ -16,7 +16,7 @@
   #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white" colspan=2>General</th>
 </tr>}}
 <tr>
-<td>Category</td><td>{{#if: {{{category|}}} | {{{category}}} | [[Mineral]] }}</td>
+<td>Category</td><td>{{#if: {{{category|}}} | {{{category}}} | [[nalji'e ligykrili]] }}</td>
 </tr>{{
   #if: {{{formula<includeonly>|</includeonly>}}} |
 <tr>
