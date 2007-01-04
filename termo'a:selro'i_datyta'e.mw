@@ -1,0 +1,191 @@
+table class="infobox" style="font-size:93%; line-height:1.3em;" width={{
+  #if: {{{boxwidth|}}} | {{{boxwidth}}} | 250}}>
+<tr>
+<th colspan=2 align=center style="background:{{
+  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">{{{name}}}</th>
+</tr>{{
+  #if: {{{image<includeonly>|</includeonly>}}} |
+<tr>
+<td align=center colspan=2>[[image:{{{image}}}|{{
+  #if: {{{imagesize<includeonly>|</includeonly>}}} | {{{imagesize}}}px |{{
+  #if: {{{boxwidth|}}} | {{{boxwidth}}}px | 250px }} }}]]<br/>{{
+  #if: {{{caption<includeonly>|</includeonly>}}} |
+    <div style="text-align:left">{{{caption}}}</div> }}</td>
+</tr>
+<tr><th align=center style="background:{{
+  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white" colspan=2>General</th>
+</tr>}}
+<tr>
+<td>Category</td><td>{{#if: {{{category|}}} | {{{category}}} | [[Mineral]] }}</td>
+</tr>{{
+  #if: {{{formula<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Chemical formula]]</td><td>{{{formula}}}</td>
+</tr>}}
+<tr>
+<th colspan=2 align=center style="background:{{
+  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">Identification</th>
+</tr>{{
+  #if: {{{molweight<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Molecular Weight]]</td><td>{{{molweight}}}</td>
+</tr>}}{{
+  #if: {{{color<includeonly>|</includeonly>}}} |
+<tr>
+<td>Color</td><td>{{{color}}}</td>
+</tr>}}{{
+  #if: {{{habit<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Crystal habit]]</td><td>{{{habit}}}</td>
+</tr>}}{{
+  #if: {{{system<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Crystal system]]</td><td>{{{system}}}</td>
+</tr>}}{{
+  #if: {{{twinning<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Crystal twinning|Twinning]]</td><td>{{{twinning}}}</td>
+</tr>}}{{
+  #if: {{{cleavage<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Cleavage (crystal)|Cleavage]]</td><td>{{{cleavage}}}</td>
+</tr>}}{{
+  #if: {{{fracture<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Fracture]]</td><td>{{{fracture}}}</td>
+</tr>}}{{
+  #if: {{{mohs<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Mohs Scale]] hardness</td><td>{{{mohs}}}</td>
+</tr>}}{{
+  #if: {{{luster<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Lustre (mineralogy)|Luster]]</td><td>{{{luster}}}</td>
+</tr>}}{{
+  #if: {{{refractive<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Refractive index]]</td><td>{{{refractive}}}</td>
+</tr>}}{{
+  #if: {{{opticalprop<includeonly>|</includeonly>}}} |
+<tr>
+<td>Optical Properties</td><td>{{{opticalprop}}}</td>
+</tr>}}{{
+  #if: {{{birefringence<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Birefringence]]</td><td>{{{birefringence}}}</td>
+</tr>}}{{
+  #if: {{{pleochroism<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Pleochroism]]</td><td>{{{pleochroism}}}</td>
+</tr>}}{{
+  #if: {{{streak<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Mineral#Streak|Streak]]</td><td>{{{streak}}}</td>
+</tr>}}{{
+  #if: {{{gravity<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Specific gravity]]</td><td>{{{gravity}}}</td>
+</tr>}}{{
+  #if: {{{density<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Density]]</td><td>{{{density}}}</td>
+</tr>}}{{
+  #if: {{{melt<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Melting point]]</td><td>{{{melt}}}</td>
+</tr>}}{{
+  #if: {{{fusibility<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Fusibility]]</td><td>{{{fusibility}}}</td>
+</tr>}}{{
+  #if: {{{diagnostic<includeonly>|</includeonly>}}} |
+<tr>
+<td>Diagnostic Features</td><td>{{{diagnostic}}}</td>
+</tr>}}{{
+  #if: {{{solubility<includeonly>|</includeonly>}}} |
+<tr>
+<td>[[Solubility]]</td><td>{{{solubility}}}</td>
+</tr>}}{{
+  #if: {{{diaphaneity<includeonly>|</includeonly>}}} |
+<tr>
+<td>Diaphaneity</td><td>{{{diaphaneity}}}</td>
+</tr>}}{{
+  #if: {{{other<includeonly>|</includeonly>}}} |
+<tr>
+<td>Other Characteristics</td><td>{{{other}}}</td>
+</tr>}}{{
+  #if: {{{prop1<includeonly>|</includeonly>}}} |
+<tr>
+<td>{{{prop1}}}</td><td>{{{prop1text}}}</td>
+</tr>}}{{
+  #if: {{{var1<includeonly>|</includeonly>}}} |
+<tr>
+<th colspan=2 align="center" style="background:{{
+  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">Major varieties</th>
+</tr>}}{{
+  #if: {{{var1<includeonly>|</includeonly>}}} |
+<tr>
+<td>{{{var1}}}</td><td>{{{var1text}}}</td>
+</tr>}}{{
+  #if: {{{var2<includeonly>|</includeonly>}}} |
+<tr>
+<td>{{{var2}}}</td><td>{{{var2text}}}</td>
+</tr>}}{{
+  #if: {{{var3<includeonly>|</includeonly>}}} |
+<tr>
+<td>{{{var3}}}</td><td>{{{var3text}}}</td>
+</tr>}}{{
+  #if: {{{var4<includeonly>|</includeonly>}}} |
+<tr>
+<td>{{{var4}}}</td><td>{{{var4text}}}</td>
+</tr>}}{{
+  #if: {{{var5<includeonly>|</includeonly>}}} |
+<tr>
+<td>{{{var5}}}</td><td>{{{var5text}}}</td>
+</tr>}}{{
+  #if: {{{var6<includeonly>|</includeonly>}}} |
+<tr>
+<td>{{{var6}}}</td><td>{{{var6text}}}</td>
+</tr>}}
+</table><noinclude>
+
+==Usage==
+<pre>
+{{Infobox mineral
+| name        = 
+| category    = 
+| boxwidth    = 
+| boxbgcolor  = 
+| image       = 
+| imagesize   = 
+| caption     = 
+| formula     = 
+| molweight   = 
+| color       = 
+| habit       = 
+| system      = 
+| twinning    = 
+| cleavage    = 
+| fracture    = 
+| mohs        = 
+| luster      = 
+| refractive  = 
+| opticalprop = 
+| birefringence = 
+| pleochroism = 
+| streak      = 
+| gravity     = 
+| density     = 
+| melt        = 
+| fusibility  = 
+| diagnostic  = 
+| solubility  = 
+| diaphaneity = 
+| other       = 
+}}
+</pre>
+[[Category:Science infobox templates|{{PAGENAME}}]]
+
+[[es:Plantilla:Infobox mineral]]
+[[lv:Veidne:Minerāls]]
+</noinclude>
