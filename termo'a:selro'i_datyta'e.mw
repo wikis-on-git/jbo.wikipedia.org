@@ -20,7 +20,7 @@
 </tr>{{
   #if: {{{formula<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[selxu'i mifra]]</td><td>{{{selxu'imifra}}}</td>
+<td>[[selxu'i mifra]]</td><td>{{{selxumymifra}}}</td>
 </tr>}}
 <tr>
 <th colspan=2 align=center style="background:{{
