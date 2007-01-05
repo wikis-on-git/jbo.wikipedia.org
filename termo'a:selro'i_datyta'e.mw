@@ -26,13 +26,13 @@
 <th colspan=2 align=center style="background:{{
   #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">Identification</th>
 </tr>{{
-  #if: {{{molweight<includeonly>|</includeonly>}}} |
+  #if: {{{selxu'i jizyjunta<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Molecular Weight]]</td><td>{{{molweight}}}</td>
+<td>[[selxu'i jizyjunta]]</td><td>{{{selxu'i jizyjunta}}}</td>
 </tr>}}{{
-  #if: {{{color<includeonly>|</includeonly>}}} |
+  #if: {{{skari<includeonly>|</includeonly>}}} |
 <tr>
-<td>Color</td><td>{{{color}}}</td>
+<td>skari</td><td>{{{skari}}}</td>
 </tr>}}{{
   #if: {{{habit<includeonly>|</includeonly>}}} |
 <tr>
