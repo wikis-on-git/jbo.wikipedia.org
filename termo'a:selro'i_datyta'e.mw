@@ -9,18 +9,18 @@
 <td align=center colspan=2>[[image:{{{pircme}}}|{{
   #if: {{{imagesize<includeonly>|</includeonly>}}} | {{{imagesize}}}px |{{
   #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}}px | 250px }} }}]]<br/>{{
-  #if: {{{caption<includeonly>|</includeonly>}}} |
-    <div style="text-align:left">{{{caption}}}</div> }}</td>
+  #if: {{{pirsku<includeonly>|</includeonly>}}} |
+    <div style="text-align:left">{{{pirsku}}}</div> }}</td>
 </tr>
 <tr><th align=center style="background:{{
-  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white" colspan=2>General</th>
+  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #9966FF}}; color:white" colspan=2>tolsteci</th>
 </tr>}}
 <tr>
-<td>Category</td><td>{{#if: {{{category|}}} | {{{category}}} | [[nalji'e ligykrili]] }}</td>
+<td>klesi</td><td>{{#if: {{{klesi|}}} | {{{klesi}}} | [[nalji'e ligykrili]] }}</td>
 </tr>{{
   #if: {{{formula<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Chemical formula]]</td><td>{{{formula}}}</td>
+<td>[[selxu'i mifra]]</td><td>{{{selxu'i mifra}}}</td>
 </tr>}}
 <tr>
 <th colspan=2 align=center style="background:{{
