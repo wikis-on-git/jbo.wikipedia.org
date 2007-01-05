@@ -18,9 +18,9 @@
 <tr>
 <td>klesi</td><td>{{#if: {{{klesi|}}} | {{{klesi}}} | [[nalji'e ligykrili]] }}</td>
 </tr>{{
-  #if: {{{selxu'i mifra<includeonly>|</includeonly>}}} |
+  #if: {{{selxu'imifra<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[selxu'i mifra]]</td><td>{{{selxu'i mifra}}}</td>
+<td>[[selxu'imifra]]</td><td>{{{selxu'imifra}}}</td>
 </tr>}}
 <tr>
 <th colspan=2 align=center style="background:{{
