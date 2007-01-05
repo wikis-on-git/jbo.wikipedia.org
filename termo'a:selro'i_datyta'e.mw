@@ -34,13 +34,13 @@
 <tr>
 <td>skari</td><td>{{{skari}}}</td>
 </tr>}}{{
-  #if: {{{habit<includeonly>|</includeonly>}}} |
+  #if: {{{krili fadmlu<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Crystal habit]]</td><td>{{{habit}}}</td>
+<td>[[krili fadmlu]]</td><td>{{{krili fadmlu}}}</td>
 </tr>}}{{
-  #if: {{{system<includeonly>|</includeonly>}}} |
+  #if: {{{krili ciste<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Crystal system]]</td><td>{{{system}}}</td>
+<td>[[krili ciste]]</td><td>{{{krili ciste}}}</td>
 </tr>}}{{
   #if: {{{twinning<includeonly>|</includeonly>}}} |
 <tr>
