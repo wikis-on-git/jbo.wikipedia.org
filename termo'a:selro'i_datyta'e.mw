@@ -48,7 +48,7 @@
 </tr>}}{{
   #if: {{{krili poiplita<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[krili poiplita]]</td><td>{{{cleavage}}}</td>
+<td>[[krili poiplita]]</td><td>{{{krili poiplita}}}</td>
 </tr>}}{{
   #if: {{{krili fenra<includeonly>|</includeonly>}}} |
 <tr>
