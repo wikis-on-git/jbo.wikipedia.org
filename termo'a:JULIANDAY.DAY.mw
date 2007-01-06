@@ -1,0 +1,18 @@
+<includeonly>{{#expr:
+     ((({{{1}}})+32044 round 0)mod 146097+36524-
+    (((({{{1}}})+32044 round 0)mod 146097/36524+0.5 round 0)*3/4+0.5 round 0)*36524
+     )mod 1461-
+   ((((({{{1}}})+32044 round 0)mod 146097+36524-
+    (((({{{1}}})+32044 round 0)mod 146097/36524+0.5 round 0)*3/4+0.5 round 0)*36524
+     )mod 1461/365+0.5 round 0)*3/4+0.5 round 0)*365-
+(((((((({{{1}}})+32044 round 0)mod 146097+36524-
+    (((({{{1}}})+32044 round 0)mod 146097/36524+0.5 round 0)*3/4+0.5 round 0)*36524
+     )mod 1461-
+   ((((({{{1}}})+32044 round 0)mod 146097+36524-
+    (((({{{1}}})+32044 round 0)mod 146097/36524+0.5 round 0)*3/4+0.5 round 0)*36524
+     )mod 1461/365+0.5 round 0)*3/4+0.5 round 0)*365+365)*5+308)/153-0.5 round 0)+2
+     )*153/5+0.5 round 0)+489
+}}</includeonly><noinclude>This template is based on [http://en.wikipedia.org/w/index.php?title=Template:JULIANDAY.DAY&oldid=86587601] ([http://en.wikipedia.org/w/index.php?title=Template:JULIANDAY.DAY&action=history history], [http://en.wikipedia.org/w/index.php?title=Template:JULIANDAY.DAY/doc&oldid=86587757 documentation]).
+[[en:Template:JULIANDAY.DAY]]
+[[fr:Template:JULIANDAY.DAY]]
+</noinclude>
