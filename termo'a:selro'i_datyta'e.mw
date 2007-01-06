@@ -24,7 +24,7 @@
 </tr>}}
 <tr>
 <th colspan=2 align=center style="background:{{
-  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #9966FF}}; color:white">Identification</th>
+  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #9966FF}}; color:white">terkle</th>
 </tr>{{
   #if: {{{selxu'i jizyjunta<includeonly>|</includeonly>}}} |
 <tr>
@@ -121,7 +121,7 @@
   #if: {{{var1<includeonly>|</includeonly>}}} |
 <tr>
 <th colspan=2 align="center" style="background:{{
-  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">Major varieties</th>
+  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #9966FF}}; color:white">ralju vrici</th>
 </tr>}}{{
   #if: {{{var1<includeonly>|</includeonly>}}} |
 <tr>
