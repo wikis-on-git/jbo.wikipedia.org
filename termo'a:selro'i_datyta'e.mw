@@ -24,7 +24,7 @@
 </tr>}}
 <tr>
 <th colspan=2 align=center style="background:{{
-  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">Identification</th>
+  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #9966FF}}; color:white">Identification</th>
 </tr>{{
   #if: {{{selxu'i jizyjunta<includeonly>|</includeonly>}}} |
 <tr>
@@ -42,77 +42,77 @@
 <tr>
 <td>[[krili ciste]]</td><td>{{{krili ciste}}}</td>
 </tr>}}{{
-  #if: {{{twinning<includeonly>|</includeonly>}}} |
+  #if: {{{krili turjo'e<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Crystal twinning|Twinning]]</td><td>{{{twinning}}}</td>
+<td>[[krili turjo'e]]</td><td>{{{krili turjo'e}}}</td>
 </tr>}}{{
-  #if: {{{cleavage<includeonly>|</includeonly>}}} |
+  #if: {{{krili poiplita<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Cleavage (crystal)|Cleavage]]</td><td>{{{cleavage}}}</td>
+<td>[[krili poiplita]]</td><td>{{{cleavage}}}</td>
 </tr>}}{{
-  #if: {{{fracture<includeonly>|</includeonly>}}} |
+  #if: {{{krili fenra<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Fracture]]</td><td>{{{fracture}}}</td>
+<td>[[krili fenra]]</td><td>{{{krili fenra}}}</td>
 </tr>}}{{
-  #if: {{{mohs<includeonly>|</includeonly>}}} |
+  #if: {{{jartermre fo la mos.<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Mohs Scale]] hardness</td><td>{{{mohs}}}</td>
+<td>[[jartermre fola mos]].</td><td>{{{jartermre fola mos.}}}</td>
 </tr>}}{{
-  #if: {{{luster<includeonly>|</includeonly>}}} |
+  #if: {{{minkai<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Lustre (mineralogy)|Luster]]</td><td>{{{luster}}}</td>
+<td>[[minkai]]</td><td>{{{minkai}}}</td>
 </tr>}}{{
-  #if: {{{refractive<includeonly>|</includeonly>}}} |
+  #if: {{{krogusni<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Refractive index]]</td><td>{{{refractive}}}</td>
+<td>[[krogusni]]</td><td>{{{krogusni}}}</td>
 </tr>}}{{
-  #if: {{{opticalprop<includeonly>|</includeonly>}}} |
+  #if: {{{gusni ckaji<includeonly>|</includeonly>}}} |
 <tr>
-<td>Optical Properties</td><td>{{{opticalprop}}}</td>
+<td>gusni ckaji</td><td>{{{gusni ckaji}}}</td>
 </tr>}}{{
   #if: {{{birefringence<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Birefringence]]</td><td>{{{birefringence}}}</td>
+<td>[[reroi krogusni]]</td><td>{{{reroi krogusni}}}</td>
 </tr>}}{{
-  #if: {{{pleochroism<includeonly>|</includeonly>}}} |
+  #if: {{{runmeka'e<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Pleochroism]]</td><td>{{{pleochroism}}}</td>
+<td>[[runmeka'e]]</td><td>{{{runmeka'e}}}</td>
 </tr>}}{{
   #if: {{{streak<includeonly>|</includeonly>}}} |
 <tr>
 <td>[[Mineral#Streak|Streak]]</td><td>{{{streak}}}</td>
 </tr>}}{{
-  #if: {{{gravity<includeonly>|</includeonly>}}} |
+  #if: {{{jaurkabdenmi<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Specific gravity]]</td><td>{{{gravity}}}</td>
+<td>[[jaurkabdenmi]]</td><td>{{{jaurkabdenmi}}}</td>
 </tr>}}{{
-  #if: {{{density<includeonly>|</includeonly>}}} |
+  #if: {{{denmi<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Density]]</td><td>{{{density}}}</td>
+<td>[[denmi]]</td><td>{{{denmi}}}</td>
 </tr>}}{{
-  #if: {{{melt<includeonly>|</includeonly>}}} |
+  #if: {{{selrunme<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Melting point]]</td><td>{{{melt}}}</td>
+<td>[[selrunme]]</td><td>{{{selrunme}}}</td>
 </tr>}}{{
-  #if: {{{fusibility<includeonly>|</includeonly>}}} |
+  #if: {{{runmeka'e<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Fusibility]]</td><td>{{{fusibility}}}</td>
+<td>[[runmeka'e]]</td><td>{{{runmeka'e}}}</td>
 </tr>}}{{
-  #if: {{{diagnostic<includeonly>|</includeonly>}}} |
+  #if: {{{barterkle<includeonly>|</includeonly>}}} |
 <tr>
-<td>Diagnostic Features</td><td>{{{diagnostic}}}</td>
+<td>barterkle</td><td>{{{barterkle}}}</td>
 </tr>}}{{
-  #if: {{{solubility<includeonly>|</includeonly>}}} |
+  #if: {{{runtaka'e<includeonly>|</includeonly>}}} |
 <tr>
-<td>[[Solubility]]</td><td>{{{solubility}}}</td>
+<td>[[runtaka'e]]</td><td>{{{runtaka'e}}}</td>
 </tr>}}{{
-  #if: {{{diaphaneity<includeonly>|</includeonly>}}} |
+  #if: {{{la diaphaneity.<includeonly>|</includeonly>}}} |
 <tr>
-<td>Diaphaneity</td><td>{{{diaphaneity}}}</td>
+<td>la diaphaneity.</td><td>{{{la diaphaneity.}}}</td>
 </tr>}}{{
-  #if: {{{other<includeonly>|</includeonly>}}} |
+  #if: {{{drata<includeonly>|</includeonly>}}} |
 <tr>
-<td>Other Characteristics</td><td>{{{other}}}</td>
+<td>drata</td><td>{{{drata}}}</td>
 </tr>}}{{
   #if: {{{prop1<includeonly>|</includeonly>}}} |
 <tr>
