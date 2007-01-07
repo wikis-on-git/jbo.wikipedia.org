@@ -1,62 +1,69 @@
-{{Taxobox | color = pink
-| image = Kangaroo1.jpg|250px
-| image_caption = [[kanguru la stuna gruzi]]
-| name = kanguru
-| regnum = [[Animalia]]
-| phylum = [[Chordata]]
-| classis = [[Mammalia]]
-| subclassis = [[Marsupialia]]
-| ordo = [[Diprotodontia]]
-| familia = [[Macropodidae]]
-| genus = '''Macropus'''
-| genus_authority =
-| subdivision_ranks = [[frejutsi]]
-| subdivision = ''[[Macropus rufus]]'' <br>''[[Macropus giganteus]]''<br>
-''[[Macropus fuliginosus]]''
-}}
+{{Taxobox_begin | color=pink | name= cionmau la barda}}<br />{{StatusEndangered}}
+{{Taxobox_image | image = [[image:Giant Panda 2004-03-2.jpg|250px|la tian.tian.]] | caption = cionmau la barda ne'i la natmi mivdalmuzga pe la UAcintyn.}}
+{{Taxobox_begin_placement | color = pink}}
+{{Taxobox_regnum_entry | taxon = [[Animalia]]}}
+{{Taxobox_phylum_entry | taxon = [[Chordata]]}}
+{{Taxobox_classis_entry | taxon = [[Mammalia]]}}
+{{Taxobox_ordo_entry | taxon = [[Carnivora]]}}
+{{Taxobox_familia_entry | taxon = [[Ursidae]]}}
+{{Taxobox_genus_entry | taxon = '''''Ailuropoda'''''}}<br/>{{Taxobox authority | author = [[Henri Milne-Edwards|Milne-Edwards]] | date = 1870}}
+{{Taxobox_species_entry | taxon = '''''A. melanoleuca'''''}}
+{{Taxobox_end_placement}}
+{{Taxobox_section_binomial_parens | color = pink | binomial_name = Ailuropoda melanoleuca | author = [[Armand David|David]] | date = [[1869]]}}
+{{Taxobox_end}}
 
+ni'o lo '''cionmau be la barda''' cu [[mabru]] la'o ly. ''Ailuropoda melanoleuca'' .ly. gi'e ca klesi loi [[cribe]] du'o so'eda .i cy. xabju le cmana midju be la [[jugygug]] be'o po'u la [[sytcuan]] .e la [[pyd]] .i ca'o le balvi xadba be le [[20moi ctona'a]] lo barda cionmau cu binxo lo natmi sinxa be la jugygug. gi'e ca se pixra lo jungo ke solji sicni
 
-lo '''kanguru''' cu claseljma je [[sralo]] ke [[se relcrade'i]] [[daskymabru]] la'o ly. Macropus .ly .i lo kanguru na'o [[plipe]] gi'e ka'e cadzu fi vo tuple .e lo rebla .i loi rixtuple cu na'o kansi'u .iku'i loi rixtuple be lo limna cu dutsi'u
+ni'o zo cionmau [[fu'ivla]] lo'u [[cribe]] [[mlatu]] le'u lo [[jungo]] zoi jy. 熊貓 xióng māo .jy .i zoi jy. māo xióng .jy. ji'a se smuni le mintu .i lo cionmau cu se valsi zo '''latcribe''' ji'a .i lo nu lo cionmau cu simsa lo mlatu lo nu lo kevna be lo srumurta be lo lenjo cu cinla kei kei cu krinu le valsi
 
-ni'o zo kanguru [[fu'ivla]] fo zoi zoi gangurru zoi lo [[bangrjimidiri]] .i de'i li 1770-08-04 la [[djeimyz.kuk]]. rejgau fi lo pruzvati ke sralo bangu valsi .i dy. viska lo nalterju'o danlu gi'e teryrei fi lu ti mo? li'u .i da dafsku zo kanguru .ibazabo de jajgau loi sralo bangu valsi .i lo drata cu valsi lo kanguru .i de sruma le du'u zoi zoi kanguru zoi se smuni lu mi na djuno li'u .a zo ki'a .iku'ibazabo facki lo du'u zoi zoi gangurru zoi valsi lo kanguru be di be'o .enai lo kanguru be rodi be'o lo bangrjimidiri noi diklo le stuzi poi la kuk. tolcliva
+ni'o lo cionmau cu [[karnivora]] .iseni'inaibo citka lo [[stagi]] .isa'e piso'a lo cidja be lo cionmau cu [[bambusa]] .i cy. ru'inai citka lo sovda ji'a gi'e citka lo [[cinki]] poi jbini lo bambusa .i cy nitcu le se go'i noi sabji lo lanbi .i lo kerlo cu slilu ca'o lo nu xejyzalvi
 
-{{na mulno}}
-[[Category:sralo]]
-[[Category:danlu]]
+ni'o lo barda cionmau cu darno ckini lo [[cionmau la cmalu|cmalu cionmau]] .iku'i le kampu valsi cu se krinu le du'u rore xai cu citka lo bambusa .i ca'o lo dekna'a be li so'e le satci jutsi pe lo cionmau cu jai senpi ki'u ledu'u lo barda cionmau .e lo cmalu cionmau cu ckaji tu'a lo cribe .e tu'a lo [[prokiono]] .i sepi'o lo jgina cipra cu jarco le du'u lo barda cionmau cu je'a cribe .i caca'o senpi ledu'u lo cmalu cionmau cu cribe je'ikau prokiono
 
-[[ar:كنغر]]
-[[bn:ক্যাংগারু]]
-[[bg:Кенгурови]]
-[[ca:Cangur]]
-[[cs:Klokanovití]]
-[[de:Kängurus]]
-[[el:Καγκουρό]]
-[[en:Kangaroo]]
-[[es:Canguro]]
-[[fr:Kangourou]]
-[[ko:캥거루]]
-[[hi:कंगारू]]
-[[io:Kanguruo]]
-[[id:Kanguru]]
-[[he:קנגורו]]
-[[la:Macropus]]
-[[lb:Känguruen]]
-[[nl:Kangoeroes]]
-[[ja:カンガルー]]
-[[no:Kenguruer]]
-[[nn:Kenguru]]
-[[ug:كانگىرو]]
-[[pl:Kangurowate]]
-[[pt:Canguru]]
-[[ro:Cangur]]
-[[ru:Кенгуровые]]
-[[sq:Kanguri]]
-[[simple:Kangaroo]]
-[[sk:Kengurovité]]
-[[sl:Kenguru]]
-[[fi:Kengurut]]
-[[sv:Kängurudjur]]
-[[ta:கங்காரு]]
-[[tr:Kanguru]]
-[[uk:Кенгуру]]
-[[zh:袋鼠]]
+[[category:cribe]]
+[[category:mabru]]
+[[category:skoselti'e]]
+[[category:danlu]]
+
+[[af:Panda]]
+[[bg:Голяма панда]]
+[[bs:Panda]]
+[[ca:Panda gegant]]
+[[cs:Panda velká]]
+[[da:Panda]]
+[[de:Großer Panda]]
+[[en:Giant Panda]]
+[[eo:Granda pando]]
+[[es:Ailuropoda melanoleuca]]
+[[fi:Jättiläispanda]]
+[[fr:Panda géant]]
+[[frp:Pandâ g·èant]]
+[[fy:Bamboebear]]
+[[he:פנדה ענק]]
+[[hu:Óriáspanda]]
+[[id:Panda]]
+[[it:Ailuropoda melanoleuca]]
+[[ja:ジャイアントパンダ]]
+[[ko:자이언트판다]]
+[[la:Panda maior]]
+[[lt:Didžioji panda]]
+[[ms:Panda Gergasi]]
+[[nl:Reuzenpanda]]
+[[no:Panda]]
+[[pl:Panda wielka]]
+[[pt:Panda-gigante]]
+[[ro:Ailuropoda melanoleuca]]
+[[ru:Большая панда]]
+[[scn:Panda gianti]]
+[[simple:Giant Panda]]
+[[sk:Panda veľká]]
+[[sl:Orjaški panda]]
+[[sr:Џиновска панда]]
+[[su:Panda]]
+[[sv:Jättepanda]]
+[[th:แพนด้ายักษ์]]
+[[ug:مۈشۈكئېيىق]]
+[[uk:Велика панда]]
+[[vi:Gấu trúc lớn]]
+[[zh:大熊猫]]
+[[zh-yue:大熊貓]]
