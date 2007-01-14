@@ -7,34 +7,8 @@
          <tr><td>↑<tr><td>{{{sinxa}}}<tr><td>↓<tr><td>{{{cnita}}}
   </table>
 </tr>
-<tr>
-<th colspan=2 align=center style="background:{{
-  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #ffc0c0}}; color:white">{{{cmene}}}</th>
-</tr>{{
-  #if: {{{pircme<includeonly>|</includeonly>}}} |
-<tr>
-<td align=center colspan=2>[[image:{{{pircme}}}|{{
-  #if: {{{imagesize<includeonly>|</includeonly>}}} | {{{imagesize}}}px |{{
-  #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}}px | 250px }} }}]]<br/>{{
-  #if: {{{pirsku<includeonly>|</includeonly>}}} |
-    <div style="text-align:left">{{{pirsku}}}</div> }}</td>
-</tr>}}
-</table><noinclude>
-{| class="wikitable" align="right" border="1" cellpadding="2" cellspacing="0" style="margin-left:0.5em;margin-bottom:0.5em"
-| colspan="2" |
-{| width="100%" border=0 cellspacing=0
-| align="center" | <span style="font-size:120%; font-weight:bold">{{{namcu}}}</span>
-| align="center" style="padding-left:2em" | <span style="font-size: 95%">{{{zunle}}}</span> ← <span style="font-size: 120%">{{{cmene}}}</span> → <span style="font-size: 95%">{{{pritu}}}</span>
-|-
-| align="center" | <span style="font-size:95%">{{{gapru}}}</span><br />↑<br /><span style="font-size:120%; font-weight:bold">{{{sinxa}}}</span><br />↓<br /><span style="font-size: 95%">{{{cnita}}}</span>
-|
-{|
-| [[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">[[dikni selratni cartu]]</div>
-|}
-|}
-|-
-! colspan=2 style="background:{{{pavmoiselskari}}}; color:{{{relmoiselskari}}}" | tolsteci
-|-
-| [[selratni liste fi lo cmene|cmene]], [[selratni liste fi lo sinxa|sinxa]], [[selratni liste fi lo namcu|namcu]]
-| {{{cmene}}}, {{{sinxa}}}, {{{namcu}}}
-</noinclude>
+<tr><th colspan=2>tolsteci</tr>
+<tr><td>[[cmene]] [[sinxa]] [[namcu]]<td>nikle, Ni, 28
+ #if: {{{mairtcini<includeonly>|</includeonly>}}} |
+      <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
+</table>
