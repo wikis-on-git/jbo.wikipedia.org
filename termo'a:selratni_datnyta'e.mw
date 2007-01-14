@@ -9,10 +9,8 @@
 <tr><th colspan=2>tolsteci</tr>
 <tr><td>[[cmene]] [[sinxa]] [[namcu]]<td>nikle, Ni, 28 {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
-      <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
-</tr>}} {{
+      <tr><td>[[mairtcini]]<td>{{{mairtcini}}}</tr>}} {{
  #if: {{{kumke'o denmi<includeonly|</includeonly}}} |
-      <tr><td>[[denmi|kumke'o denmi]]<td>{{{kumke'o denmi}}} g·cm<sup>&minus;3
-</tr>}} {{
+      <tr><td>[[denmi|kumke'o denmi]]<td>{{{kumke'o denmi}}} g·cm<sup>&minus;3</tr>}} {{
 }}
 </table>
