@@ -7,6 +7,7 @@
          <tr><td>↑<tr><td>{{{sinxa}}}<tr><td>↓<tr><td>{{{cnita}}}
   </table>
 </tr>
+<tr>
 <th colspan=2 align=center style="background:{{
   #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #ffc0c0}}; color:white">{{{cmene}}}</th>
 </tr>{{
