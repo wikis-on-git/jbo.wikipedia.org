@@ -8,7 +8,7 @@
   </table>
 </tr>
 <th colspan=2 align=center style="background:{{
-  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #9966FF}}; color:white">{{{cmene}}}</th>
+  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #ffc0c0}}; color:white">{{{cmene}}}</th>
 </tr>{{
   #if: {{{pircme<includeonly>|</includeonly>}}} |
 <tr>
