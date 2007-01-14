@@ -1,4 +1,4 @@
-<table class="infobox" style="font-size:93%; line-height:1.3em;" width={{
+<table class="infobox" style="font-size:93%; line-height:1.3em;" align="right" width={{
   #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 250}}>
 <tr>
 <tr colspan=2 align=center>
