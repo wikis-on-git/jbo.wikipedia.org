@@ -2,7 +2,7 @@
   #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 250}}>
 <tr>
 <th colspan=2 align=center style="background:{{
-  #if: {{{boxbgcolor|}}} | {{{boxbgcolor}}} | #9966FF}}; color:white">{{{cmene}}}</th>
+  #if: {{{tanxe rixska|}}} | {{{tanxe rixska}}} | #9966FF}}; color:white">{{{cmene}}}</th>
 </tr>{{
   #if: {{{pircme<includeonly>|</includeonly>}}} |
 <tr>
