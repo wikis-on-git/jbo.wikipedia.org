@@ -7,7 +7,8 @@
   </table>
 </tr>
 <tr><th colspan=2>tolsteci</tr>
-<tr><td>[[cmene]] [[sinxa]] [[namcu]]<td>nikle, Ni, 28
+<tr><td>[[cmene]] [[sinxa]] [[namcu]]<td>nikle, Ni, 28 {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
       <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
+</tr>}}
 </table>
