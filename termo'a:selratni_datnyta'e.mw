@@ -12,7 +12,7 @@
 <tr><td>[[cmene]], [[sinxa]], [[namcu]]<td>{{{cmene}}}, {{{sinxa}}}, {{{namcu}}}
 <tr><td>[[selratni porsi ja klesi]]<td>{{{selratni porsi ja klesi}}} {{
  #if: {{{girzu}}} |
-<tr><td>[[girzu]], [[pinli'ina'u]], [[cakykle]]<td>{{{girzu}}}, {{{pinli'ina'u}}}, {{{cakykle}}} {{
+<tr><td>[[girzu]], [[pinli'ina'u]], [[cakykle]]<td>{{{girzu}}}, {{{pinli'ina'u}}}, {{{cakykle}}} }} {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
 <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
 </tr>}} {{
