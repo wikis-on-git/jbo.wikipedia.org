@@ -1,6 +1,6 @@
 <table class="infobox" style="font-size:93%; line-height:1.3em;" align="right" width={{
   #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 250}}>
-<tr colspan=2 align=center><td>
+<tr> align=center><td colspan=2>
   <table border=1><tr><th>{{{namcu}}}<td><center>{{{zunle}}} ← {{{cmene}}} → {{{pritu}}}</center></tr>
          <tr><td><center>{{{gapru}}}</td>
          <td rowspan=5>[[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">
