@@ -1,5 +1,5 @@
 <table border=1 class="wikitable" cellpadding="2" cellspacing="0" style="font-size:93%; line-height:1.3em;" align="right" width={{
-  #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 250}}>
+  #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 50%}}>
 <tr><td colspan=2>
   <table border=1 cellpadding="2" cellspacing="0"> <tr><th>{{{namcu}}}<td><center>{{{zunle}}} ← {{{cmene}}} → {{{pritu}}}</center></tr>
          <tr><td><center>{{{gapru}}}</td>
