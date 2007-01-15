@@ -77,5 +77,20 @@
 </tr>}} {{
  #if: {{{dikca fapmre<includeonly>|</includeonly>}}} |
 <tr><td>[[dikca fapmre]]<td>{{{dikca fapmre}}}
+</tr>}} {{
+ #if: {{{glanejni bevmre<includeonly>|</includeonly>}}} |
+<tr><td>[[glanejni bevmre]]<td>{{{glanejni bevmre}}}
+</tr>}} {{
+ #if: {{{glanejni ba'ormre<includeonly>|</includeonly>}}} |
+<tr><td>[[glanejni ba'ormre]]<td>{{{glanejni ba'ormre}}}
+</tr>}} {{
+ #if: {{{snasutra<includeonly>|</includeonly>}}} |
+<tr><td>[[snasutra]]<td>{{{snasutra}}}
+</tr>}} {{
+ #if: {{{tinsymre<includeonly>|</includeonly>}}} |
+<tr><td>[[tinsymre]]<td>{{{tinsymre}}}
+</tr>}} {{
+ #if: {{{pabycinlytcena<includeonly>|</includeonly>}}} |
+<tr><td>[[pabycinlytcena]]<td>{{{pabycinlytcena}}}
 </tr>}}
 </table>
