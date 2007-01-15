@@ -1,4 +1,4 @@
-<table border=0 class="infobox" style="font-size:93%; line-height:1.3em;" align="right" width={{
+<table border=0 class="wikitable" style="font-size:93%; line-height:1.3em;" align="right" width={{
   #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 250}}>
 <tr><td colspan=2>
   <table border=1><tr><th>{{{namcu}}}<td><center>{{{zunle}}} ← {{{cmene}}} → {{{pritu}}}</center></tr>
