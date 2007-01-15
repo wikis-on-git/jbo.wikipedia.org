@@ -20,10 +20,10 @@
 <tr><td>[[denmi|litki denmi]]<td>{{{litki denmi}}} g·cm<sup>&minus;3</sup>
 </tr>}} {{
  #if: {{{selrunme<includeonly>|</includeonly>}}} |
-<tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] to {{#expr: {{{selrunme}}} - 273}}&nbsp;&deg;[[selsi,ys|C]] toi
+<tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvo|K]] to {{#expr: {{{selrunme}}} - 273}}&nbsp;&deg;[[selsi,ys|C]] toi
 </tr>}} {{
  #if: {{{selfebvi<includeonly>|</includeonly>}}} |
-<tr><td>[[selfebvi]]<td>{{{selfebvi}}}&nbsp;[[kelvin|K]] to {{#expr: {{{selfebvi}}} - 273}}&nbsp;&deg;[[selsi,ys|C]] toi
+<tr><td>[[selfebvi]]<td>{{{selfebvi}}}&nbsp;[[kelvo|K]] to {{#expr: {{{selfebvi}}} - 273}}&nbsp;&deg;[[selsi,ys|C]] toi
 </tr>}} {{
  #if: {{{dujbi'o nejni<includeonly>|</includeonly>}}} |
 <tr><td>[[dujbi'o nejni]]<td>{{{dujbi'o nejni}}} kJ·mol<sup>&minus;1</sup>
