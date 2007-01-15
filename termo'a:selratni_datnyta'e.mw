@@ -8,7 +8,7 @@
          <tr><td>↑<tr><td>{{{sinxa}}}<tr><td>↓<tr><td>{{{cnita}}}</center>
   </table>
 </tr>
-<tr><th colspan=2>tolsteci</tr> {{
+<tr><th colspan=2 bgcolor=#ffc0c0>tolsteci ckaji</tr> {{
  #if: {{{cmene<includeonly>|</includeonly>}}} |
 <tr><td>[[cmene]], [[sinxa]], [[namcu]]<td>'''{{{cmene}}}''', {{{sinxa}}}, {{{namcu}}}
 </tr>}} {{
@@ -29,7 +29,8 @@
 </tr>}} {{
  #if: {{{dutydikca kantu calku klani<includeonly>|</includeonly>}}} |
 <tr><td>[[dutydikca kantu calku klani]]<td>{{{dutydikca kantu calku klani}}}
-</tr>}} {{
+</tr>}}
+<tr><td colspan=2 bgcolor=#ffc0c0>termu'e ckaji</tr> {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
 <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
 </tr>}} {{
@@ -53,7 +54,8 @@
 </tr>}} {{
  #if: {{{glanejni sroka'e<includeonly>|</includeonly>}}} |
 <tr><td>[[glanejni sroka'e]]<td>{{{glanejni sroka'e}}} kJ·mol<sup>&minus;1</sup>
-</tr>}} {{
+</tr>}}
+<tr><td colspan=2 bgcolor=#ffc0c0>ratni ckaji</tr> {{
  #if: {{{krilysu'a<includeonly>|</includeonly>}}} |
 <tr><td>[[krilysu'a]]<td>{{{krilysu'a}}}
 </tr>}} {{
@@ -71,7 +73,8 @@
 </tr>}} {{
  #if: {{{ratni frati ravcukmre<includeonly>|</includeonly>}}} |
 <tr><td>[[ratni frati ravcukmre]]<td>{{{ratni frati ravcukmre}}}
-</tr>}} {{
+</tr>}}
+<tr><td colspan=2 bgcolo=#ffc0c0>vrici steci</tr> {{
  #if: {{{makpoi<includeonly>|</includeonly>}}} |
 <tr><td>[[makpoi]]<td>{{{makpoi}}}
 </tr>}} {{
@@ -92,5 +95,18 @@
 </tr>}} {{
  #if: {{{pabycinlytcena<includeonly>|</includeonly>}}} |
 <tr><td>[[pabycinlytcena]]<td>{{{pabycinlytcena}}}
+</tr>}} {{
+ #if: {{{sraku jarmre]]<includeonly>|</includeonly>}}} |
+<tr><td>[[sraku jarmre]]<td>{{{sraku jarmre}}}
+</tr>}} {{
+ #if: {{{jalke'a jarmre<includeonly>|</includeonly>}}} |
+<tr><td>[[jalke'a jarmre]]<td>{{{jalke'a jarmre}}}
+</tr>}} {{
+ #if: {{{boljalcno jarmre<includeonly>|</includeonly>}}} |
+<tr><td>[[boljalcno jarmre]]<td>{{{boljalcno jarmre}}}
+</tr>}} {{
+ #if: {{{marxu'iste namcu<includeonly>|</includeonly>}}} |
+<tr><td>[[marxu'iste namcu]]<td>{{{marxu'iste namcu}}}
 </tr>}}
+<tr><td colspan=2 bgcolor=#ffc0c0>ralju teryratni</tr>
 </table>
