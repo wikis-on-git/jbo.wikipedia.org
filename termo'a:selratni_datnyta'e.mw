@@ -21,6 +21,15 @@
  #if: {{{viska simlu<includeonly>|</includeonly>}}} |
 <tr><td>[[viska simlu]]<td>{{{viska simlu}}}<br />[[Image: {{{sinxa}}},{{{namcu}}}.jpg|125px|]]
 </tr>}} {{
+ #if: {{{ratni junta<includeonly>|</includeonly>}}} |
+<tr><td>[[ratni junta]]<td>{{{ratni junta}}}
+</tr>}} {{
+ #if: {{{dutydikca kantu porsi<includeonly>|</includeonly>}}} |
+<tr><td>[[dutydikca kantu porsi]]<td>{{{dutydikca kantu porsi}}}
+</tr>}} {{
+ #if: {{{dutydikca kantu calku klani<includeonly>|</includeonly>}}} |
+<tr><td>[[dutydikca kantu calku klani]]<td>{{{dutydikca kantu calku klani}}}
+</tr>}} {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
 <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
 </tr>}} {{
@@ -44,5 +53,29 @@
 </tr>}} {{
  #if: {{{glanejni sroka'e<includeonly>|</includeonly>}}} |
 <tr><td>[[glanejni sroka'e]]<td>{{{glanejni sroka'e}}} kJ·mol<sup>&minus;1</sup>
+</tr>}} {{
+ #if: {{{krilysu'a<includeonly>|</includeonly>}}} |
+<tr><td>[[krilysu'a]]<td>{{{krilysu'a}}}
+</tr>}} {{
+ #if: {{{kijyfra tcini<includeonly>|</includeonly>}}} |
+<tr><td>[[kijyfra tcini]]<td>{{{kijyfra tcini}}}
+</tr>}} {{
+ #if: {{{dutydikca kantu seltrika'e<includeonly>|</includeonly>}}} |
+<tr><td>[[dutydikca kantu seltrika'e]]<td>{{{dutydikca kantu seltrika'e}}}
+</tr>}} {{
+ #if: {{{dutydikca kantu la'arnejni<includeonly>|</includeonly>}}} |
+<tr><td>[[dutydikca kantu la'arnejni]]<td>{{{dutydikca kantu la'arnejni}}}
+</tr>}} {{
+ #if: {{{ratni ravcukmre<includeonly>|</includeonly>}}} |
+<tr><td>[[ratni ravcukmre]]<td>{{{ratni ravcukmre}}}
+</tr>}} {{
+ #if: {{{ratni frati ravcukmre<includeonly>|</includeonly>}}} |
+<tr><td>[[ratni frati ravcukmre]]<td>{{{ratni frati ravcukmre}}}
+</tr>}} {{
+ #if: {{{makpoi<includeonly>|</includeonly>}}} |
+<tr><td>[[makpoi]]<td>{{{makpoi}}}
+</tr>}} {{
+ #if: {{{dikca fapmre<includeonly>|</includeonly>}}} |
+<tr><td>[[dikca fapmre]]<td>{{{dikca fapmre}}}
 </tr>}}
 </table>
