@@ -16,7 +16,11 @@
 <tr><td>[[selratni porsi ja klesi]]<td>{{{selratni porsi ja klesi}}}
 </tr>}} {{
  #if: {{{girzu<includeonly>|</includeonly>}}} |
-<tr><td>[[girzu]], [[pinli'ina'u]], [[cakykle]]<td>{{{girzu}}}, {{{pinli'ina'u}}}, {{{cakykle}}} }} {{
+<tr><td>[[girzu]], [[pinli'ina'u]], [[cakykle]]<td>{{{girzu}}}, {{{pinli'ina'u}}}, {{{cakykle}}}
+</tr>}} {{
+ #if: {{{viska simlu<includeonly>|</includeonly>}}} |
+<tr><td>[[viska simlu]]<td>{{{viska simlu}}}<br />[[Image: {{{sinxa}}},{{{namcu}}}.jpg|125px|]]
+</tr>}} {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
 <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
 </tr>}} {{
