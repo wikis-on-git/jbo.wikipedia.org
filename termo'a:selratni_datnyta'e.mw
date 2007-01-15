@@ -9,7 +9,9 @@
   </table>
 </tr>
 <tr><th colspan=2>tolsteci</tr>
-<tr><td>[[cmene]] [[sinxa]] [[namcu]]<td>nikle, Ni, 28 {{
+<tr><td>[[cmene]], [[sinxa]], [[namcu]]<td>{{{cmene}}}, {{{sinxa}}}, {{{namcu}}}
+<tr><td>[[selratni porsi ja klesi]]<td>binjinkle
+<tr><td>[[girzu]], [[pinli'ina'u]], [[cakykle]]<td>{{{girzu}}}, {{{pinli'ina'u}}}, {{{cakykle}}} {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
 <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
 </tr>}} {{
@@ -30,5 +32,8 @@
 </tr>}} {{
  #if: {{{febybi'o nejni<includeonly>|</includeonly>}}} |
 <tr><td>[[febybi'o nejni]]<td>{{{febybi'o nejni}}} kJ·mol<sup>&minus;1</sup>
+</tr>}} {{
+ #if: {{{glanejni sroka'e<includeonly>|</includeonly>}}} |
+<tr><td>[[glanejni sroka'e]]<td>{{{glanejni sroka'e}}} kJ·mol<sup>&minus;1</sup>
 </tr>}}
 </table>
