@@ -13,6 +13,6 @@
  #if: {{{kumke'o denmi<includeonly|</includeonly}}} |
       <tr><td>[[denmi|kumke'o denmi]]<td>{{{kumke'o denmi}}} g·cm<sup>&minus;3</tr>}} {{
  #if: {{{selrunme<includeonly>|</includeonly}}} |
-      <tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] {{#expr: {{{selrunme}}} - 273}}&deg;[[selsi,ys|C]]
+      <tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] <br>{#expr: {{{selrunme}}} - 273}}&deg;[[selsi,ys|C]]
 }}
 </table>
