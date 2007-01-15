@@ -108,7 +108,8 @@
  #if: {{{marxu'iste namcu<includeonly>|</includeonly>}}} |
 <tr><td>[[marxu'iste namcu]]<td>{{{marxu'iste namcu}}}
 </tr>}}
-<tr><td colspan=2 bgcolor=#ffc0c0><center>ralju teryratni</center></tr> {{
+<tr><td colspan=2 bgcolor=#ffc0c0><center>ralju teryratni</center>
+</tr> {{
  #if: {{{pamoi teryratni<includeonly>|</includeonly>}}} |
 <tr><td colspan=2>
     <table border=1 cellpadding="2" cellspacing="0">
