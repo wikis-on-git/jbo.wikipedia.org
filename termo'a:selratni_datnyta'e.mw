@@ -30,7 +30,7 @@
  #if: {{{dutydikca kantu calku klani<includeonly>|</includeonly>}}} |
 <tr><td>[[dutydikca kantu calku klani]]<td>{{{dutydikca kantu calku klani}}}
 </tr>}}
-<tr><td colspan=2 bgcolor=#ffc0c0>termu'e ckaji</tr> {{
+<tr><td colspan=2 bgcolor=#ffc0c0><center>termu'e ckaji<center></tr> {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
 <tr><td>[[mairtcini]]<td>{{{mairtcini}}}
 </tr>}} {{
@@ -55,7 +55,7 @@
  #if: {{{glanejni sroka'e<includeonly>|</includeonly>}}} |
 <tr><td>[[glanejni sroka'e]]<td>{{{glanejni sroka'e}}} kJ·mol<sup>&minus;1</sup>
 </tr>}}
-<tr><td colspan=2 bgcolor=#ffc0c0>ratni ckaji</tr> {{
+<tr><td colspan=2 bgcolor=#ffc0c0><center>ratni ckaji</center></tr> {{
  #if: {{{krilysu'a<includeonly>|</includeonly>}}} |
 <tr><td>[[krilysu'a]]<td>{{{krilysu'a}}}
 </tr>}} {{
@@ -74,7 +74,7 @@
  #if: {{{ratni frati ravcukmre<includeonly>|</includeonly>}}} |
 <tr><td>[[ratni frati ravcukmre]]<td>{{{ratni frati ravcukmre}}}
 </tr>}}
-<tr><td colspan=2 bgcolo=#ffc0c0>vrici steci</tr> {{
+<tr><td colspan=2 bgcolor=#ffc0c0><center>vrici steci</center></tr> {{
  #if: {{{makpoi<includeonly>|</includeonly>}}} |
 <tr><td>[[makpoi]]<td>{{{makpoi}}}
 </tr>}} {{
@@ -108,5 +108,16 @@
  #if: {{{marxu'iste namcu<includeonly>|</includeonly>}}} |
 <tr><td>[[marxu'iste namcu]]<td>{{{marxu'iste namcu}}}
 </tr>}}
-<tr><td colspan=2 bgcolor=#ffc0c0>ralju teryratni</tr>
+<tr><td colspan=2 bgcolor=#ffc0c0><center>ralju teryratni</center></tr> {{
+ #if: {{{pamoi teryratni<includeonly>|</includeonly>}}} |
+<tr><td>
+    <table border=1 cellpadding="2" cellspacing="0">
+       <tr><th>teryratni<th>faurla'e<th>xabre'itei<th>furtadji<th>furnejni<th>furja'e
+       <tr><td><sup>{{{pamoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{pamoi faurla'e}}}<td>{{{pamoi xabre'itei}}}
+           <td>{{{pamoi furtadji}}}<td>{{{pamoi furnejni}}}
+           <td>{{{pamoi furja'e}}}
+</tr>}} {{
+ #if: {{{pamoi teryratni<includeonly>|</inludeonly>}}} |
+    </table>}}
 </table>
