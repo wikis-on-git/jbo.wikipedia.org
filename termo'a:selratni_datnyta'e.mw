@@ -2,16 +2,18 @@
   #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 250}}>
 <tr colspan=2 align=center><td>
   <table border=1><tr><th>{{{namcu}}}<td><center>{{{zunle}}} ← {{{cmene}}} → {{{pritu}}}</center></tr>
-         <tr><td>{{{gapru}}}<td rowspan=5>[[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">[[dikni selratni cartu]]</div>
-         <tr><td>↑<tr><td>{{{sinxa}}}<tr><td>↓<tr><td>{{{cnita}}}
+         <tr><td><center>{{{gapru}}}</td>
+         <td rowspan=5>[[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">
+             [[dikni selratni cartu]]</div>
+         <tr><td>↑<tr><td>{{{sinxa}}}<tr><td>↓<tr><td>{{{cnita}}}</center>
   </table>
 </tr>
 <tr><th colspan=2>tolsteci</tr>
 <tr><td>[[cmene]] [[sinxa]] [[namcu]]<td>nikle, Ni, 28 {{
  #if: {{{mairtcini<includeonly>|</includeonly>}}} |
       <tr><td>[[mairtcini]]<td>{{{mairtcini}}}</tr>}} {{
- #if: {{{kumkeho denmi<includeonly|</includeonly}}} |
-      <tr><td>[[denmi|kumke'o denmi]]<td>{{{kumke'o denmi}}} g·cm<sup>&minus;3</tr>}} {{
+ #if: {{{kumke'o denmi<includeonly|</includeonly}}} |
+      <tr><td>[[denmi|kumke'o denmi]]<td>{{{kumke'o denmi}}} g·cm<sup>&minus;3</sup></tr>}} {{
  #if: {{{selrunme<includeonly>|</includeonly}}} |
-      <tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] {#expr: {{{selrunme}}} - 273}}&deg;[[selsi,ys|C]]</tr>}}
+      <tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] {{ #expr: {{{selrunme}}} - 273}}&deg;[[selsi,ys|C]]</tr>}}
 </table>
