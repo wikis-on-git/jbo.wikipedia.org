@@ -118,6 +118,11 @@
            <td>{{{pamoi furtadji}}}<td>{{{pamoi furnejni}}}
            <td>{{{pamoi furja'e}}}
 </tr>}} {{
+       <tr><td><sup>{{{remoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{remoi faurla'e}}}<td>{{{remoi xabre'itei}}}
+           <td>{{{remoi furtadji}}}<td>{{{remoi furnejni}}}
+           <td>{{{remoi furja'e}}}
+</tr>}} {{
  #if: {{{pamoi teryratni<includeonly>|</inludeonly>}}} |
     </table>}}
 </table>
