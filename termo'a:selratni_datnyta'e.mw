@@ -3,8 +3,8 @@
 <tr><td colspan=2>
   <table border=1 cellpadding="2" cellspacing="0"> <tr><th>{{{namcu}}}<td><center>{{{zunle}}} ← {{{cmene}}} → {{{pritu}}}</center></tr>
          <tr><td><center>{{{gapru}}}</td>
-         <td rowspan=5>[[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">
-             [[dikni selratni cartu]]</div>
+         <td rowspan=5><center>[[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">
+             [[dikni selratni cartu]]</div></center>
          <tr><td>↑<tr><td>{{{sinxa}}}<tr><td>↓<tr><td>{{{cnita}}}</center>
   </table>
 </tr>
