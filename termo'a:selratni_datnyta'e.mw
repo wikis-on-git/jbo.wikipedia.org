@@ -10,7 +10,7 @@
 </tr>
 <tr><th colspan=2>tolsteci</tr> {{
  #if: {{{cmene<includeonly>|</includeonly>}}} |
-<tr><td>[[cmene]], [[sinxa]], [[namcu]]<td>{{{cmene}}}, {{{sinxa}}}, {{{namcu}}}
+<tr><td>'''[[cmene]]''', [[sinxa]], [[namcu]]<td>{{{cmene}}}, {{{sinxa}}}, {{{namcu}}}
 </tr>}} {{
  #if: {{{selratni porsi ja klesi<includeonly>|</includeonly>}}} |
 <tr><td>[[selratni porsi ja klesi]]<td>{{{selratni porsi ja klesi}}}
