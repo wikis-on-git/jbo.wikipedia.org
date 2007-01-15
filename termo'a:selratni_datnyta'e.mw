@@ -16,7 +16,19 @@
  #if: {{{kumke'o denmi<includeonly>|</includeonly>}}} |
 <tr><td>[[denmi|kumke'o denmi]]<td>{{{kumke'o denmi}}} g·cm<sup>&minus;3</sup>
 </tr>}} {{
+ #if: {{{litki denmi<includeonly>|</includeonly>}}} |
+<tr><td>[[denmi|litki denmi]]<td>{{{litki denmi}}} g·cm<sup>&minus;3</sup>
+</tr>}} {{
  #if: {{{selrunme<includeonly>|</includeonly>}}} |
 <tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] to {{#expr: {{{selrunme}}} - 273}}&nbsp;&deg;[[selsi,ys|C]] toi
+</tr>}} {{
+ #if: {{{selfebvi<includeonly>|</includeonly>}}} |
+<tr><td>[[selfebvi]]<td>{{{selfebvi}}}&nbsp;[[kelvin|K]] to {{#expr: {{{selfebvi}}} - 273}}&nbsp;&deg;[[selsi,ys|C]] toi
+</tr>}} {{
+ #if: {{{dujbi'o nejni<includeonly>|</includeonly>}}} |
+<tr><td>[[dujbi'o nejni]]<td>{{{dujbi'o nejni}}} kJ·mol<sup>&minus;1</sup>
+</tr>}} {{
+ #if: {{{febybi'o nejni<includeonly>|</includeonly>}}} |
+<tr><td>[[febybi'o nejni]]<td>{{{febybi'o nejni}}} kJ·mol<sup>&minus;1</sup>
 </tr>}}
 </table>
