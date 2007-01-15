@@ -1,6 +1,6 @@
 <table border=0 class="infobox" style="font-size:93%; line-height:1.3em;" align="right" width={{
   #if: {{{tanxe ganmre|}}} | {{{tanxe ganmre}}} | 250}}>
-<tr align=center><td colspan=2>
+<tr><td colspan=2>
   <table border=1><tr><th>{{{namcu}}}<td><center>{{{zunle}}} ← {{{cmene}}} → {{{pritu}}}</center></tr>
          <tr><td><center>{{{gapru}}}</td>
          <td rowspan=5>[[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">
@@ -17,6 +17,6 @@
 <tr><td>[[denmi|kumke'o denmi]]<td>{{{kumke'o denmi}}} g·cm<sup>&minus;3</sup>
 </tr>}} {{
  #if: {{{selrunme<includeonly>|</includeonly>}}} |
-<tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] {#expr: {{{selrunme}}} - 273}&deg;[[selsi,ys|C]]
+<tr><td>[[selrunme]]<td>{{{selrunme}}}&nbsp;[[kelvin|K]] {{#expr: {{{selrunme}}} - 273}}&deg;[[selsi,ys|C]]
 </tr>}}
 </table>
