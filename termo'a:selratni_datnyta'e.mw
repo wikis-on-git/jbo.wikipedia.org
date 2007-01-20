@@ -88,7 +88,7 @@
 <tr><td>[[glanejni ba'ormre]]<td>{{tertenfa torcme|x={{{glanejni ba'ormre}}}
 }}m·m<sup>-1</sup>·K<sup>-1</sup></tr>}} {{
  #if: {{{snasutra<includeonly>|</includeonly>}}} |
-<tr><td>[[snasutra]]<td>{{{snasutra}}}
+<tr><td>[[snasutra]]<td>{{tertenfa torcme|x={{{snasutra}}} }}m/s
 </tr>}} {{
  #if: {{{tinsymre<includeonly>|</includeonly>}}} |
 <tr><td>[[tinsymre]]<td>{{{tinsymre}}}
