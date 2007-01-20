@@ -47,10 +47,10 @@
 <tr><td>[[selfebvi]]<td>{{{selfebvi}}}&nbsp;[[kelvo|K]] to {{#expr: {{{selfebvi}}} - 273}}&nbsp;&deg;[[selsi,ys|C]] toi
 </tr>}} {{
  #if: {{{dujbi'o nejni<includeonly>|</includeonly>}}} |
-<tr><td>[[manri dujbi'o nejni|dujbi'o nejni]]<td>{{{dujbi'o nejni}}} kJ·mol<sup>&minus;1</sup>
+<tr><td>[[manri dujbi'o nejni|dujbi'o nejni]]<td>{{tertenfa torcme|x={{{dujbi'o nejni}}} }}J·mol<sup>&minus;1</sup>
 </tr>}} {{
  #if: {{{febybi'o nejni<includeonly>|</includeonly>}}} |
-<tr><td>[[manri febybi'o nejni|febybi'o nejni]]<td>{{{febybi'o nejni}}} kJ·mol<sup>&minus;1</sup>
+<tr><td>[[manri febybi'o nejni|febybi'o nejni]]<td>{{tertenfa torcme|x={{{febybi'o nejni}}} }}J·mol<sup>&minus;1</sup>
 </tr>}} {{
  #if: {{{glanejni sroka'e<includeonly>|</includeonly>}}} |
 <tr><td>[[glanejni sroka'e]]<td>{{{glanejni sroka'e}}} kJ·mol<sup>&minus;1</sup>
