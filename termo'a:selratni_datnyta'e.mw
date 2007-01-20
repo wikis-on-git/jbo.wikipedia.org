@@ -53,7 +53,7 @@
 <tr><td>[[manri febybi'o nejni|febybi'o nejni]]<td>{{tertenfa torcme|x={{{febybi'o nejni}}} }}J·mol<sup>&minus;1</sup>
 </tr>}} {{
  #if: {{{glanejni sroka'e<includeonly>|</includeonly>}}} |
-<tr><td>[[glanejni sroka'e]]<td>{{{glanejni sroka'e}}} kJ·mol<sup>&minus;1</sup>
+<tr><td>[[glanejni sroka'e]]<td>{{tertenfa torcme|x={{{glanejni sroka'e}}} }}J·mol<sup>&minus;1</sup>
 </tr>}}
 <tr><td colspan=2 bgcolor=#ffc0c0><center>ratni ckaji</center></tr> {{
  #if: {{{krilysu'a<includeonly>|</includeonly>}}} |
