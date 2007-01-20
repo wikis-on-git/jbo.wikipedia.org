@@ -82,11 +82,11 @@
 <tr><td>[[dikca fapmre]]<td>{{tertenfa torcme|x={{{dikca fapmre}}} }}&Omega;·m
 </tr>}} {{
  #if: {{{glanejni bevmre<includeonly>|</includeonly>}}} |
-<tr><td>[[glanejni bevmre]]<td>{{{glanejni bevmre}}} W·m<sup>-1</sup>K<sup>-1</sup>
+<tr><td>[[glanejni bevmre]]<td>{{tertenfa torcme|x={{{glanejni bevmre}}} }}W·m<sup>-1</sup>K<sup>-1</sup>
 </tr>}} {{
  #if: {{{glanejni ba'ormre<includeonly>|</includeonly>}}} |
-<tr><td>[[glanejni ba'ormre]]<td>{{{glanejni ba'ormre}}}
-</tr>}} {{
+<tr><td>[[glanejni ba'ormre]]<td>{{tertenfa torcme|x={{{glanejni ba'ormre}}}
+}}m·m<sup>-1</sup>·K<sup>-1</sup></tr>}} {{
  #if: {{{snasutra<includeonly>|</includeonly>}}} |
 <tr><td>[[snasutra]]<td>{{{snasutra}}}
 </tr>}} {{
