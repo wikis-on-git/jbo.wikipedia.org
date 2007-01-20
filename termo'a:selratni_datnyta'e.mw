@@ -79,10 +79,10 @@
 <tr><td>[[makpoi]]<td>{{{makpoi}}}
 </tr>}} {{
  #if: {{{dikca fapmre<includeonly>|</includeonly>}}} |
-<tr><td>[[dikca fapmre]]<td>{{{dikca fapmre}}}
+<tr><td>[[dikca fapmre]]<td>{{{dikca fapmre}}} n&Omega;·m
 </tr>}} {{
  #if: {{{glanejni bevmre<includeonly>|</includeonly>}}} |
-<tr><td>[[glanejni bevmre]]<td>{{{glanejni bevmre}}}
+<tr><td>[[glanejni bevmre]]<td>{{{glanejni bevmre}}} W·m<sup>-1</sup>K<sup>-1</sup>
 </tr>}} {{
  #if: {{{glanejni ba'ormre<includeonly>|</includeonly>}}} |
 <tr><td>[[glanejni ba'ormre]]<td>{{{glanejni ba'ormre}}}
