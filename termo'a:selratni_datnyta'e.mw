@@ -22,7 +22,7 @@
 <tr><td>[[viska simlu]]<td>{{{viska simlu}}}<br />[[Image: {{{sinxa}}},{{{namcu}}}.jpg|125px|]]
 </tr>}} {{
  #if: {{{na'oteryratni<includeonly>|</includeonly>}}} |
-<tr><td>[[na'oteryratni]]<td>{{{na'oteryratni}}}
+<tr><td>[[na'oteryratni]]<td>{{{na'oteryratni}}} g/mol
 </tr>}} {{
  #if: {{{dutydikca kantu porsi<includeonly>|</includeonly>}}} |
 <tr><td>[[dutydikca kantu porsi]]<td>{{{dutydikca kantu porsi}}}
