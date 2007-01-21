@@ -1,11 +1,11 @@
-{{#ifexpr: {{{pamoi furtadji<includeonly>|</includeonly>}}} |
+{{#ifexpr: {{{pamoi furtadji<includeonly>|</includeonly>|0}}} |
 <td><table border=0 cellpadding=1>
-{{#ifexpr: {{{pamoi furtadji<includeonly>|</includeonly>}}} |
-    <tr><td>{{{pamoi furtadji}}}<td>{{{pamoi furnejni}}}<td>{{{pamoi furja'e}}}
-}} {{#ifexpr: {{{remoi furtadji<includeonly>|</includeonly>}}} |
-    <tr><td>{{{remoi furtadji}}}<td>{{{remoi furnejni}}}<td>{{{remoi furja'e}}}
-}} {{#ifexpr: {{{cimoi furtadji<includeonly>|</includeonly>}}} |
-    <tr><td>{{{cimoi furtadji}}}<td>{{{cimoi furnejni}}}<td>{{{cimoi furja'e}}}
+{{#ifexpr: {{{pamoi furtadji<includeonly>|</includeonly>|0}}} |
+    <tr><td>{{{pamoi furtadji|-}}}<td>{{{pamoi furnejni|-}}}<td>{{{pamoi furja'e|-}}}
+}} {{#ifexpr: {{{remoi furtadji<includeonly>|</includeonly>|0}}} |
+    <tr><td>{{{remoi furtadji|-}}}<td>{{{remoi furnejni|-}}}<td>{{{remoi furja'e|-}}}
+}} {{#ifexpr: {{{cimoi furtadji<includeonly>|</includeonly>|0}}} |
+    <tr><td>{{{cimoi furtadji|-}}}<td>{{{cimoi furnejni|-}}}<td>{{{cimoi furja'e|-}}}
 }}
 </table></td>
 }}
