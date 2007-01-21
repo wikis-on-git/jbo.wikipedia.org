@@ -99,7 +99,7 @@
  #if: {{{pabycinlytcena<includeonly>|</includeonly>}}} |
 <tr><td>[[pabycinlytcena]]<td>{{{pabycinlytcena}}}
 </tr>}} {{
- #if: {{{sraku jarmre]]<includeonly>|</includeonly>}}} |
+ #if: {{{sraku jarmre<includeonly>|</includeonly>}}} |
 <tr><td>[[sraku jarmre]]<td>{{{sraku jarmre}}}
 </tr>}} {{
  #if: {{{jalke'a jarmre<includeonly>|</includeonly>}}} |
