@@ -21,8 +21,8 @@
  #if: {{{viska simlu<includeonly>|</includeonly>}}} |
 <tr><td>[[viska simlu]]<td>{{{viska simlu}}}<br />[[Image: {{{sinxa}}},{{{namcu}}}.jpg|125px|]]
 </tr>}} {{
- #if: {{{ratni junta<includeonly>|</includeonly>}}} |
-<tr><td>[[ratni junta]]<td>{{{ratni junta}}}
+ #if: {{{na'oteryratni<includeonly>|</includeonly>}}} |
+<tr><td>[[na'oteryratni]]<td>{{{na'oteryratni}}}
 </tr>}} {{
  #if: {{{dutydikca kantu porsi<includeonly>|</includeonly>}}} |
 <tr><td>[[dutydikca kantu porsi]]<td>{{{dutydikca kantu porsi}}}
