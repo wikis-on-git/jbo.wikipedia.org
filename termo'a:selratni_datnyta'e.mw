@@ -91,7 +91,10 @@
 <tr><td>[[snasutra]]<td>{{tertenfa torcme|x={{{snasutra}}} }}m/s
 </tr>}} {{
  #if: {{{tinsymre<includeonly>|</includeonly>}}} |
-<tr><td>[[tinsymre]]<td>{{{tinsymre}}}
+<tr><td>[[tinsymre]]<td>{{tertenfa torcme|x={{{tinsymre}}} }}Pa
+</tr>}} {{
+ #if: {{{salpoi fapmre<includeonly>|</includeonly>}}} |
+<tr><td>[[salpoi fapmre]]<td>{{tertenfa torcme|x={{{salpoi fapmre}}} }}Pa
 </tr>}} {{
  #if: {{{pabycinlytcena<includeonly>|</includeonly>}}} |
 <tr><td>[[pabycinlytcena]]<td>{{{pabycinlytcena}}}
@@ -100,10 +103,10 @@
 <tr><td>[[sraku jarmre]]<td>{{{sraku jarmre}}}
 </tr>}} {{
  #if: {{{jalke'a jarmre<includeonly>|</includeonly>}}} |
-<tr><td>[[jalke'a jarmre]]<td>{{{jalke'a jarmre}}}
+<tr><td>[[jalke'a jarmre]]<td>{{tertenfa torcme|x={{{jalke'a jarmre}}} }}Pa
 </tr>}} {{
  #if: {{{boljalcno jarmre<includeonly>|</includeonly>}}} |
-<tr><td>[[boljalcno jarmre]]<td>{{{boljalcno jarmre}}}
+<tr><td>[[boljalcno jarmre]]<td>{{tertenfa torcme|x={{{boljalcno jarmre}}} }}Pa
 </tr>}} {{
  #if: {{{marxu'iste namcu<includeonly>|</includeonly>}}} |
 <tr><td>[[marxu'iste namcu]]<td>{{{marxu'iste namcu}}}
