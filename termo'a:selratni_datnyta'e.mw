@@ -69,10 +69,10 @@
 <tr><td>[[dutydikca kantu la'arnejni]]<td>{{{dutydikca kantu la'arnejni}}}
 </tr>}} {{
  #if: {{{ratni ravcukmre<includeonly>|</includeonly>}}} |
-<tr><td>[[ratni ravcukmre]]<td>{{{ratni ravcukmre}}}
+<tr><td>[[ratni ravcukmre]]<td>{{tertenfa torcme|x={{{ratni ravcukmre}}} }}m
 </tr>}} {{
  #if: {{{ratni frati ravcukmre<includeonly>|</includeonly>}}} |
-<tr><td>[[ratni frati ravcukmre]]<td>{{{ratni frati ravcukmre}}}
+<tr><td>[[ratni frati ravcukmre]]<td>{{tertenfa torcme|x={{{ratni frati ravcukmre}}} }}m
 </tr>}}
 <tr><td colspan=2 bgcolor=#ffc0c0><center>vrici steci</center></tr> {{
  #if: {{{makpoi<includeonly>|</includeonly>}}} |
