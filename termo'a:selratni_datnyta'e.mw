@@ -76,7 +76,7 @@
 </tr>}}
 <tr><td colspan=2 bgcolor=#ffc0c0><center>vrici steci</center></tr> {{
  #if: {{{makpoi<includeonly>|</includeonly>}}} |
-<tr><td>[[makpoi]]<td>{{{makpoi}}}
+<tr><td>[[maksi|makpoi]]<td>{{{makpoi}}}
 </tr>}} {{
  #if: {{{dikca fapmre<includeonly>|</includeonly>}}} |
 <tr><td>[[dikca fapmre]]<td>{{tertenfa torcme|x={{{dikca fapmre}}} }}&Omega;·m
