@@ -66,7 +66,7 @@
 <tr><td>[[dutydikca kantu seltrika'e]]<td>{{{dutydikca kantu seltrika'e}}}
 </tr>}} {{
  #if: {{{dutydikca kantu la'arnejni<includeonly>|</includeonly>}}} |
-<tr><td>[[dutydikca kantu la'arnejni]]<td>{{{dutydikca kantu la'arnejni}}}
+<tr><td>[[dutydikca kantu la'arnejni]]<td>{{tertenfa torcme|x={{{dutydikca kantu la'arnejni}}} }}J·mol<sup>&minus;1</sup>
 </tr>}} {{
  #if: {{{ratni ravcukmre<includeonly>|</includeonly>}}} |
 <tr><td>[[ratni ravcukmre]]<td>{{tertenfa torcme|x={{{ratni ravcukmre}}} }}m
