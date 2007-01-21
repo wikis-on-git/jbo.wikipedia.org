@@ -119,7 +119,7 @@
        <tr><th>teryratni<th>faurla'e<th>xabre'itei<td><table><th>furtadji<th>furnejni<th>furja'e</table>
        <tr><td><sup>{{{pamoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{pamoi faurla'e}}}<td>{{{pamoi xabre'itei}}}
-{{teryratni jutsi catfancu
+<td>{{teryratni jutsi catfancu
    |pamoi furtadji={{{pamoi teryratni pamoi furtadji}}}
    |pamoi furnejni={{{pamoi teryratni pamoi furnejni}}}
    |pamoi furja'e={{{pamoi teryratni remoi furja'e}}}
@@ -133,7 +133,7 @@
 </tr>}} {{
        <tr><td><sup>{{{remoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{remoi faurla'e}}}<td>{{{remoi xabre'itei}}}
-{{teryratni jutsi catfancu
+<td>{{teryratni jutsi catfancu
    |pamoi furtadji={{{remoi teryratni pamoi furtadji}}}
    |pamoi furnejni={{{remoi teryratni pamoi furnejni}}}
    |pamoi furja'e={{{remoi teryratni remoi furja'e}}}
@@ -144,6 +144,24 @@
    |cimoi furnejni={{{remoi teryratni cimoi furnejni}}}
    |cimoi furja'e={{{remoi teryratni cimoi furja'e}}}
 }}
+</tr>}} {{
+       <tr><td><sup>{{{cimoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{cimoi faurla'e}}}<td>{{{cimoi xabre'itei}}}
+</tr>}} {{
+       <tr><td><sup>{{{vomoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{vomoi faurla'e}}}<td>{{{vomoi xabre'itei}}}
+</tr>}} {{
+       <tr><td><sup>{{{mumoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{mumoi faurla'e}}}<td>{{{mumoi xabre'itei}}}
+</tr>}} {{
+       <tr><td><sup>{{{xamoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{xamoi faurla'e}}}<td>{{{xamoi xabre'itei}}}
+</tr>}} {{
+       <tr><td><sup>{{{zemoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{zemoi faurla'e}}}<td>{{{zemoi xabre'itei}}}
+</tr>}} {{
+       <tr><td><sup>{{{bimoi teryratni}}}</sup>{{{sinxa}}}
+           <td>{{{bimoi faurla'e}}}<td>{{{bimoi xabre'itei}}}
 </tr>}} {{
  #if: {{{pamoi teryratni<includeonly>|</inludeonly>}}} |
     </table>}}
