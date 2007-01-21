@@ -3,7 +3,7 @@
 <tr><td colspan=2>
   <table border=1 cellpadding="2" cellspacing="0"> <tr><th>{{{namcu}}}<td><center>{{{zunle}}} ← {{{cmene}}} → {{{pritu}}}</center></tr>
          <tr><td><center>{{{gapru}}}</td>
-         <td rowspan=5><center>[[image:{{{sinxa}}}-TableImage.png|250px]]<div align="center">
+         <td rowspan=5><center>[[image:{{{sinxa}}}-TableImage.png]]<div align="center">
              [[dikni selratni cartu]]</div></center>
          <tr><td>↑<tr><td>{{{sinxa}}}<tr><td>↓<tr><td>{{{cnita}}}</center>
   </table>
@@ -130,7 +130,7 @@
    |cimoi furnejni={{{pamoi teryratni cimoi furnejni}}}
    |cimoi furja'e={{{pamoi teryratni cimoi furja'e}}}
 }}
-</tr>}} {{
+</tr>}} {{#if: {{{remoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{remoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{remoi faurla'e}}}<td>{{{remoi xabre'itei}}}
 <td>{{teryratni jutsi catfancu
@@ -144,22 +144,22 @@
    |cimoi furnejni={{{remoi teryratni cimoi furnejni}}}
    |cimoi furja'e={{{remoi teryratni cimoi furja'e}}}
 }}
-</tr>}} {{
+</tr>}} {{#if: {{{cimoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{cimoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{cimoi faurla'e}}}<td>{{{cimoi xabre'itei}}}
-</tr>}} {{
+</tr>}} {{#if: {{{vomoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{vomoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{vomoi faurla'e}}}<td>{{{vomoi xabre'itei}}}
-</tr>}} {{
+</tr>}} {{#if: {{{mumoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{mumoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{mumoi faurla'e}}}<td>{{{mumoi xabre'itei}}}
-</tr>}} {{
+</tr>}} {{#if: {{{xamoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{xamoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{xamoi faurla'e}}}<td>{{{xamoi xabre'itei}}}
-</tr>}} {{
+</tr>}} {{#if: {{{zemoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{zemoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{zemoi faurla'e}}}<td>{{{zemoi xabre'itei}}}
-</tr>}} {{
+</tr>}} {{#if: {{{bimoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{bimoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{bimoi faurla'e}}}<td>{{{bimoi xabre'itei}}}
 </tr>}} {{
