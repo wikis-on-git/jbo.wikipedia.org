@@ -147,21 +147,87 @@
 </tr>}} {{#if: {{{cimoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{cimoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{cimoi faurla'e}}}<td>{{{cimoi xabre'itei}}}
+<td>{{teryratni jutsi catfancu
+   |pamoi furtadji={{{cimoi teryratni pamoi furtadji}}}
+   |pamoi furnejni={{{cimoi teryratni pamoi furnejni}}}
+   |pamoi furja'e={{{cimoi teryratni remoi furja'e}}}
+   |remoi furtadji={{{cimoi teryratni remoi furtadji}}}
+   |remoi furnejni={{{cimoi teryratni remoi furnejni}}}
+   |remoi furja'e={{{cimoi teryratni remoi furja'e}}}
+   |cimoi furtadji={{{cimoi teryratni cimoi furtadji}}}
+   |cimoi furnejni={{{cimoi teryratni cimoi furnejni}}}
+   |cimoi furja'e={{{cimoi teryratni cimoi furja'e}}}
+}}
 </tr>}} {{#if: {{{vomoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{vomoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{vomoi faurla'e}}}<td>{{{vomoi xabre'itei}}}
+<td>{{teryratni jutsi catfancu
+   |pamoi furtadji={{{vomoi teryratni pamoi furtadji}}}
+   |pamoi furnejni={{{vomoi teryratni pamoi furnejni}}}
+   |pamoi furja'e={{{vomoi teryratni remoi furja'e}}}
+   |remoi furtadji={{{vomoi teryratni remoi furtadji}}}
+   |remoi furnejni={{{vomoi teryratni remoi furnejni}}}
+   |remoi furja'e={{{vomoi teryratni remoi furja'e}}}
+   |cimoi furtadji={{{vomoi teryratni cimoi furtadji}}}
+   |cimoi furnejni={{{vomoi teryratni cimoi furnejni}}}
+   |cimoi furja'e={{{vomoi teryratni cimoi furja'e}}}
+}}
 </tr>}} {{#if: {{{mumoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{mumoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{mumoi faurla'e}}}<td>{{{mumoi xabre'itei}}}
+<td>{{teryratni jutsi catfancu
+   |pamoi furtadji={{{mumoi teryratni pamoi furtadji}}}
+   |pamoi furnejni={{{mumoi teryratni pamoi furnejni}}}
+   |pamoi furja'e={{{mumoi teryratni remoi furja'e}}}
+   |remoi furtadji={{{mumoi teryratni remoi furtadji}}}
+   |remoi furnejni={{{mumoi teryratni remoi furnejni}}}
+   |remoi furja'e={{{mumoi teryratni remoi furja'e}}}
+   |cimoi furtadji={{{mumoi teryratni cimoi furtadji}}}
+   |cimoi furnejni={{{mumoi teryratni cimoi furnejni}}}
+   |cimoi furja'e={{{mumoi teryratni cimoi furja'e}}}
+}}
 </tr>}} {{#if: {{{xamoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{xamoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{xamoi faurla'e}}}<td>{{{xamoi xabre'itei}}}
+<td>{{teryratni jutsi catfancu
+   |pamoi furtadji={{{xamoi teryratni pamoi furtadji}}}
+   |pamoi furnejni={{{xamoi teryratni pamoi furnejni}}}
+   |pamoi furja'e={{{xamoi teryratni remoi furja'e}}}
+   |remoi furtadji={{{xamoi teryratni remoi furtadji}}}
+   |remoi furnejni={{{xamoi teryratni remoi furnejni}}}
+   |remoi furja'e={{{xamoi teryratni remoi furja'e}}}
+   |cimoi furtadji={{{xamoi teryratni cimoi furtadji}}}
+   |cimoi furnejni={{{xamoi teryratni cimoi furnejni}}}
+   |cimoi furja'e={{{xamoi teryratni cimoi furja'e}}}
+}}
 </tr>}} {{#if: {{{zemoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{zemoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{zemoi faurla'e}}}<td>{{{zemoi xabre'itei}}}
+<td>{{teryratni jutsi catfancu
+   |pamoi furtadji={{{zemoi teryratni pamoi furtadji}}}
+   |pamoi furnejni={{{zemoi teryratni pamoi furnejni}}}
+   |pamoi furja'e={{{zemoi teryratni remoi furja'e}}}
+   |remoi furtadji={{{zemoi teryratni remoi furtadji}}}
+   |remoi furnejni={{{zemoi teryratni remoi furnejni}}}
+   |remoi furja'e={{{zemoi teryratni remoi furja'e}}}
+   |cimoi furtadji={{{zemoi teryratni cimoi furtadji}}}
+   |cimoi furnejni={{{zemoi teryratni cimoi furnejni}}}
+   |cimoi furja'e={{{zemoi teryratni cimoi furja'e}}}
+}}
 </tr>}} {{#if: {{{bimoi teryratni<includeonly>|</includeonly>}}} |
        <tr><td><sup>{{{bimoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{bimoi faurla'e}}}<td>{{{bimoi xabre'itei}}}
+<td>{{teryratni jutsi catfancu
+   |pamoi furtadji={{{bimoi teryratni pamoi furtadji}}}
+   |pamoi furnejni={{{bimoi teryratni pamoi furnejni}}}
+   |pamoi furja'e={{{bimoi teryratni remoi furja'e}}}
+   |remoi furtadji={{{bimoi teryratni remoi furtadji}}}
+   |remoi furnejni={{{bimoi teryratni remoi furnejni}}}
+   |remoi furja'e={{{bimoi teryratni remoi furja'e}}}
+   |cimoi furtadji={{{bimoi teryratni cimoi furtadji}}}
+   |cimoi furnejni={{{bimoi teryratni cimoi furnejni}}}
+   |cimoi furja'e={{{bimoi teryratni cimoi furja'e}}}
+}}
 </tr>}} {{
  #if: {{{pamoi teryratni<includeonly>|</inludeonly>}}} |
     </table>}}
