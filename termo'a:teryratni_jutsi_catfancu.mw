@@ -1,5 +1,5 @@
 {{#if: {{{pamoi furtadji|}}} |
-<td><table border=1 class="wikitable" cellpadding=2 cellspacing=0>
+<td><table border=1 class="wikitable" cellpadding=2 cellspacing=0 width=100% >
 {{#if: {{{pamoi furtadji|}}} |
     <tr><td>{{{pamoi furtadji|}}}<td>{{{pamoi furnejni|}}}<td>{{{pamoi furja'e|}}} 
 }} {{#if: {{{remoi furtadji<includeonly>|</includeonly>}}} |
