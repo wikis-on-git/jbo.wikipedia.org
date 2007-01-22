@@ -115,7 +115,7 @@
 </tr> {{
  #if: {{{pamoi teryratni<includeonly>|</includeonly>}}} |
 <tr><td colspan=2>
-    <table border=1 cellpadding="2" cellspacing="0">
+    <table border=1 cellpadding="2" cellspacing="0" width=100%>
        <tr><th>teryratni<th>faurla'e<th>xabre'itei<td><table><th>furtadji<th>furnejni<th>furja'e</table>
        <tr><td><sup>{{{pamoi teryratni}}}</sup>{{{sinxa}}}
            <td>{{{pamoi faurla'e}}}<td>{{{pamoi xabre'itei}}}
